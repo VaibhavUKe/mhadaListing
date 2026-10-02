@@ -1,0 +1,7580 @@
+[
+ {
+  "sr": 1,
+  "code": "964-अ",
+  "round": 1,
+  "section": "social-15",
+  "name_mr": "सरिता निकेतन, मांजरी खुर्द - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1467900,
+  "price_max": 1469200,
+  "builtup_sqm": [
+   44.11,
+   44.15
+  ],
+  "carpet_sqm": [
+   29.59,
+   29.7
+  ],
+  "total_units": 282,
+  "reserved": {
+   "SC": 31,
+   "ST": 17,
+   "NT": 5,
+   "DT": 5,
+   "JR": 7,
+   "FF": 7,
+   "PH": 9,
+   "DF": 6,
+   "EX": 15,
+   "MP": 6,
+   "ME": 6,
+   "SG": 15,
+   "CG": 6,
+   "AR": 6,
+   "GP": 141
+  },
+  "rera": "P52100079924",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1467900-1469200",
+   "builtup": "44.11-44.15",
+   "carpet": "29.59-29.70",
+   "rera": "P52100079924"
+  }
+ },
+ {
+  "sr": 2,
+  "code": "964-ब",
+  "round": 1,
+  "section": "social-15",
+  "name_mr": "सरिता निकेतन, मांजरी खुर्द - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2049800,
+  "price_max": 2049800,
+  "builtup_sqm": [
+   61.6,
+   61.6
+  ],
+  "carpet_sqm": [
+   40.88,
+   40.88
+  ],
+  "total_units": 194,
+  "reserved": {
+   "SC": 22,
+   "ST": 12,
+   "NT": 3,
+   "DT": 3,
+   "JR": 5,
+   "FF": 5,
+   "PH": 6,
+   "DF": 4,
+   "EX": 10,
+   "MP": 4,
+   "ME": 4,
+   "SG": 10,
+   "CG": 4,
+   "AR": 4,
+   "GP": 98
+  },
+  "rera": "P52100079924",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2049800",
+   "builtup": "61.6",
+   "carpet": "40.88",
+   "rera": "P52100079924"
+  }
+ },
+ {
+  "sr": 3,
+  "code": "968-अ",
+  "round": 1,
+  "section": "social-15",
+  "name_mr": "शांती निकेतन, म्हाळुंगे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1424200,
+  "price_max": 1444600,
+  "builtup_sqm": [
+   45.29,
+   45.94
+  ],
+  "carpet_sqm": [
+   27.83,
+   29.51
+  ],
+  "total_units": 180,
+  "reserved": {
+   "SC": 20,
+   "ST": 11,
+   "NT": 3,
+   "DT": 3,
+   "JR": 5,
+   "FF": 5,
+   "PH": 5,
+   "DF": 4,
+   "EX": 9,
+   "MP": 4,
+   "ME": 4,
+   "SG": 9,
+   "CG": 4,
+   "AR": 4,
+   "GP": 90
+  },
+  "rera": "PartOcRecevied",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1424200-1444600",
+   "builtup": "45.29-45.94",
+   "carpet": "27.83-29.51",
+   "rera": "Part Oc Recevied"
+  }
+ },
+ {
+  "sr": 4,
+  "code": "968-ब",
+  "round": 1,
+  "section": "social-15",
+  "name_mr": "शांती निकेतन, म्हाळुंगे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 1992400,
+  "price_max": 2010400,
+  "builtup_sqm": [
+   63.36,
+   63.93
+  ],
+  "carpet_sqm": [
+   40.4,
+   40.73
+  ],
+  "total_units": 213,
+  "reserved": {
+   "SC": 24,
+   "ST": 13,
+   "NT": 3,
+   "DT": 3,
+   "JR": 6,
+   "FF": 6,
+   "PH": 7,
+   "DF": 5,
+   "EX": 11,
+   "MP": 5,
+   "ME": 4,
+   "SG": 11,
+   "CG": 4,
+   "AR": 4,
+   "GP": 107
+  },
+  "rera": "PartOcRecevied",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1992400-2010400",
+   "builtup": "63.36-63.93",
+   "carpet": "40.40-40.73",
+   "rera": "Part Oc Recevied"
+  }
+ },
+ {
+  "sr": 5,
+  "code": "1012-ए",
+  "round": 1,
+  "section": "social-15",
+  "name_mr": "एव्हियन व्हॅली सोलेअर, भुगाव - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1949100,
+  "price_max": 1949100,
+  "builtup_sqm": [
+   61.98,
+   61.98
+  ],
+  "carpet_sqm": [
+   29.88,
+   29.88
+  ],
+  "total_units": 130,
+  "reserved": {
+   "SC": 14,
+   "ST": 8,
+   "NT": 2,
+   "DT": 2,
+   "JR": 3,
+   "FF": 3,
+   "PH": 4,
+   "DF": 3,
+   "EX": 7,
+   "MP": 3,
+   "ME": 3,
+   "SG": 7,
+   "CG": 3,
+   "AR": 3,
+   "GP": 65
+  },
+  "rera": "PR1260002502429",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1949100",
+   "builtup": "61.98",
+   "carpet": "29.88",
+   "rera": "PR1260002502429"
+  }
+ },
+ {
+  "sr": 6,
+  "code": "1012-बी",
+  "round": 1,
+  "section": "social-15",
+  "name_mr": "एव्हियन व्हॅली सोलेअर, भुगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2716900,
+  "price_max": 2803400,
+  "builtup_sqm": [
+   86.4,
+   89.15
+  ],
+  "carpet_sqm": [
+   49.73,
+   49.73
+  ],
+  "total_units": 274,
+  "reserved": {
+   "SC": 31,
+   "ST": 17,
+   "NT": 4,
+   "DT": 4,
+   "JR": 8,
+   "FF": 8,
+   "PH": 9,
+   "DF": 5,
+   "EX": 15,
+   "MP": 6,
+   "ME": 5,
+   "SG": 15,
+   "CG": 5,
+   "AR": 5,
+   "GP": 137
+  },
+  "rera": "PR1260002502429",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2716900-2803400",
+   "builtup": "86.40-89.15",
+   "carpet": "49.73",
+   "rera": "PR1260002502429"
+  }
+ },
+ {
+  "sr": 7,
+  "code": "881-ए",
+  "round": 2,
+  "section": "social-15",
+  "name_mr": "लाईफ रिपब्लिक, सेक्टर आर 35/35 अव्हेन्यू हार्मनी रेसिडेन्सी,जांभे-1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1154800,
+  "price_max": 1254600,
+  "builtup_sqm": [
+   38.56,
+   41.89
+  ],
+  "carpet_sqm": [
+   27.62,
+   28.07
+  ],
+  "total_units": 111,
+  "reserved": {
+   "SC": 3,
+   "ST": 15,
+   "NT": 1,
+   "DT": 0,
+   "JR": 7,
+   "FF": 7,
+   "PH": 6,
+   "DF": 6,
+   "EX": 12,
+   "MP": 6,
+   "ME": 6,
+   "SG": 12,
+   "CG": 6,
+   "AR": 6,
+   "GP": 18
+  },
+  "rera": "P52100079586",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1154800-1254600",
+   "builtup": "38.56-41.89",
+   "carpet": "27.62-28.07",
+   "rera": "P52100079586"
+  }
+ },
+ {
+  "sr": 8,
+  "code": "881-बी",
+  "round": 2,
+  "section": "social-15",
+  "name_mr": "लाईफ रिपब्लिक, सेक्टर आर 35/35 अव्हेन्यू हार्मनी रेसिडेन्सी, जांभे-2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 1857100,
+  "price_max": 1990200,
+  "builtup_sqm": [
+   62.01,
+   66.45
+  ],
+  "carpet_sqm": [
+   46.04,
+   46.77
+  ],
+  "total_units": 107,
+  "reserved": {
+   "SC": 5,
+   "ST": 20,
+   "NT": 2,
+   "DT": 0,
+   "JR": 12,
+   "FF": 11,
+   "PH": 1,
+   "DF": 9,
+   "EX": 4,
+   "MP": 9,
+   "ME": 9,
+   "SG": 2,
+   "CG": 7,
+   "AR": 8,
+   "GP": 8
+  },
+  "rera": "P52100079586",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1857100-1990200",
+   "builtup": "62.01-66.45",
+   "carpet": "46.04-46.77",
+   "rera": "P52100079586"
+  }
+ },
+ {
+  "sr": 9,
+  "code": "869",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "न्याती ईरा फेज 2, धानोरी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1805600,
+  "price_max": 1805600,
+  "builtup_sqm": [
+   54.26,
+   54.26
+  ],
+  "carpet_sqm": [
+   36.48,
+   36.48
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 3,
+   "FF": 3,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 2,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100035037",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1805600",
+   "builtup": "54.26",
+   "carpet": "36.48",
+   "rera": "P52100035037"
+  }
+ },
+ {
+  "sr": 10,
+  "code": "870",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "खुशव्हिस्टा - फेज 1, मोहम्मदवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1755400,
+  "price_max": 1825600,
+  "builtup_sqm": [
+   52.75,
+   54.86
+  ],
+  "carpet_sqm": [
+   28.44,
+   28.94
+  ],
+  "total_units": 10,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 1,
+   "GP": 2
+  },
+  "rera": "P52100030740",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1755400-1825600",
+   "builtup": "52.75-54.86",
+   "carpet": "28.44-28.94",
+   "rera": "P52100030740"
+  }
+ },
+ {
+  "sr": 11,
+  "code": "871",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "ईडब्ल्यूएस बिल्डिंग, बी विंग, शेवाळेवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1975800,
+  "price_max": 1975800,
+  "builtup_sqm": [
+   61.85,
+   61.85
+  ],
+  "carpet_sqm": [
+   49.73,
+   49.73
+  ],
+  "total_units": 55,
+  "reserved": {
+   "SC": 6,
+   "ST": 8,
+   "NT": 0,
+   "DT": 0,
+   "JR": 3,
+   "FF": 3,
+   "PH": 2,
+   "DF": 3,
+   "EX": 1,
+   "MP": 3,
+   "ME": 3,
+   "SG": 5,
+   "CG": 3,
+   "AR": 3,
+   "GP": 12
+  },
+  "rera": "P52100078550",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1975800",
+   "builtup": "61.85",
+   "carpet": "49.73",
+   "rera": "P52100078550"
+  }
+ },
+ {
+  "sr": 12,
+  "code": "872",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "ईडब्ल्यूएस बिल्डिंग, ए विंग, शेवाळेवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1975800,
+  "price_max": 1975800,
+  "builtup_sqm": [
+   61.85,
+   61.85
+  ],
+  "carpet_sqm": [
+   49.73,
+   49.73
+  ],
+  "total_units": 42,
+  "reserved": {
+   "SC": 2,
+   "ST": 8,
+   "NT": 0,
+   "DT": 0,
+   "JR": 3,
+   "FF": 3,
+   "PH": 0,
+   "DF": 3,
+   "EX": 1,
+   "MP": 3,
+   "ME": 3,
+   "SG": 2,
+   "CG": 2,
+   "AR": 3,
+   "GP": 9
+  },
+  "rera": "P52100078565",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1975800",
+   "builtup": "61.85",
+   "carpet": "49.73",
+   "rera": "P52100078565"
+  }
+ },
+ {
+  "sr": 13,
+  "code": "880",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "वेद लॉरेल्स, वारजे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1630400,
+  "price_max": 1649900,
+  "builtup_sqm": [
+   46.66,
+   47.22
+  ],
+  "carpet_sqm": [
+   39.26,
+   39.46
+  ],
+  "total_units": 5,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100045729",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1630400-1649900",
+   "builtup": "46.66-47.22",
+   "carpet": "39.26-39.46",
+   "rera": "P52100045729"
+  }
+ },
+ {
+  "sr": 14,
+  "code": "882",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "वास्तुश्री - फेज 1, कात्रज - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2439200,
+  "price_max": 2439200,
+  "builtup_sqm": [
+   69.81,
+   69.81
+  ],
+  "carpet_sqm": [
+   46.36,
+   46.36
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100077481",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2439200",
+   "builtup": "69.81",
+   "carpet": "46.36",
+   "rera": "P52100077481"
+  }
+ },
+ {
+  "sr": 15,
+  "code": "887",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "स्टेला, हडपसर 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2154300,
+  "price_max": 2163000,
+  "builtup_sqm": [
+   64.74,
+   65.0
+  ],
+  "carpet_sqm": [
+   41.8,
+   45.88
+  ],
+  "total_units": 4,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100080288",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2154300-2163000",
+   "builtup": "64.74-65.00",
+   "carpet": "41.80-45.88",
+   "rera": "P52100080288"
+  }
+ },
+ {
+  "sr": 16,
+  "code": "906",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युनिक स्काय लिंक्स फेज 1, पाषाण 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2309500,
+  "price_max": 2692800,
+  "builtup_sqm": [
+   66.1,
+   77.07
+  ],
+  "carpet_sqm": [
+   36.94,
+   41.6
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100055408",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2309500-2692800",
+   "builtup": "66.10-77.07",
+   "carpet": "36.94-41.60",
+   "rera": "P52100055408"
+  }
+ },
+ {
+  "sr": 17,
+  "code": "913",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "द्वारिकाधाम, कोंढवा बुद्रुक - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1898300,
+  "price_max": 1898300,
+  "builtup_sqm": [
+   54.33,
+   54.33
+  ],
+  "carpet_sqm": [
+   37.18,
+   37.18
+  ],
+  "total_units": 23,
+  "reserved": {
+   "SC": 1,
+   "ST": 4,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 2,
+   "PH": 0,
+   "DF": 2,
+   "EX": 2,
+   "MP": 2,
+   "ME": 2,
+   "SG": 3,
+   "CG": 2,
+   "AR": 1,
+   "GP": 1
+  },
+  "rera": "P52100019278",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1898300",
+   "builtup": "54.33",
+   "carpet": "37.18",
+   "rera": "P52100019278"
+  }
+ },
+ {
+  "sr": 18,
+  "code": "918",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "आईजी क्रिस्टल - फेज 1, धानोरी 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2084200,
+  "price_max": 2130000,
+  "builtup_sqm": [
+   59.65,
+   60.96
+  ],
+  "carpet_sqm": [
+   45.92,
+   46.34
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100046177",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2084200-2130000",
+   "builtup": "59.65-60.96",
+   "carpet": "45.92-46.34",
+   "rera": "P52100046177"
+  }
+ },
+ {
+  "sr": 19,
+  "code": "919",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "झेन इलाईट, खराडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1389400,
+  "price_max": 1540400,
+  "builtup_sqm": [
+   41.75,
+   46.29
+  ],
+  "carpet_sqm": [
+   33.04,
+   33.56
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100033357",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1389400-1540400",
+   "builtup": "41.75-46.29",
+   "carpet": "33.04-33.56",
+   "rera": "P52100033357"
+  }
+ },
+ {
+  "sr": 20,
+  "code": "920",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "इन्फिनिटी टॉवर्स, औताडे, हांडेवाडी- 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1552700,
+  "price_max": 2822500,
+  "builtup_sqm": [
+   46.66,
+   84.82
+  ],
+  "carpet_sqm": [
+   36.94,
+   51.13
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100078603",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1552700-2822500",
+   "builtup": "46.66-84.82",
+   "carpet": "36.94-51.13",
+   "rera": "P52100078603"
+  }
+ },
+ {
+  "sr": 21,
+  "code": "926",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "नॅन्सी हिल व्ह्यू, बी-2, बाणेर - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2577600,
+  "price_max": 2577600,
+  "builtup_sqm": [
+   77.46,
+   77.46
+  ],
+  "carpet_sqm": [
+   45.49,
+   45.49
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100079837",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2577600",
+   "builtup": "77.46",
+   "carpet": "45.49",
+   "rera": "P52100079837"
+  }
+ },
+ {
+  "sr": 22,
+  "code": "885-ए",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युफोरिया, धायरी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1487400,
+  "price_max": 1487400,
+  "builtup_sqm": [
+   44.7,
+   44.7
+  ],
+  "carpet_sqm": [
+   30.55,
+   30.55
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100056468",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1487400",
+   "builtup": "44.7",
+   "carpet": "30.55",
+   "rera": "P52100056468"
+  }
+ },
+ {
+  "sr": 23,
+  "code": "885-बी",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युफोरिया, धायरी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2298700,
+  "price_max": 2664100,
+  "builtup_sqm": [
+   69.08,
+   80.06
+  ],
+  "carpet_sqm": [
+   47.11,
+   50.41
+  ],
+  "total_units": 7,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100056468",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2298700-2664100",
+   "builtup": "69.08-80.06",
+   "carpet": "47.11-50.41",
+   "rera": "P52100056468"
+  }
+ },
+ {
+  "sr": 24,
+  "code": "888-ए",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "माइंडस्पेस रेसिडेन्सी फेज 1, लोहगाव - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2169600,
+  "price_max": 2363700,
+  "builtup_sqm": [
+   65.2,
+   71.03
+  ],
+  "carpet_sqm": [
+   44.25,
+   51.65
+  ],
+  "total_units": 5,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100076913",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2169600-2363700",
+   "builtup": "65.20-71.03",
+   "carpet": "44.25-51.65",
+   "rera": "P52100076913"
+  }
+ },
+ {
+  "sr": 25,
+  "code": "888-बी",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "माइंडस्पेस रेसिडेन्सी फेज 1, लोहगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2546300,
+  "price_max": 2760600,
+  "builtup_sqm": [
+   76.52,
+   82.96
+  ],
+  "carpet_sqm": [
+   51.19,
+   57.67
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100076913",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2546300-2760600",
+   "builtup": "76.52-82.96",
+   "carpet": "51.19-57.67",
+   "rera": "P52100076913"
+  }
+ },
+ {
+  "sr": 26,
+  "code": "924-बी",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "गंगाधाम, टॉवर ए, बिबवेवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1796600,
+  "price_max": 1949600,
+  "builtup_sqm": [
+   53.99,
+   58.59
+  ],
+  "carpet_sqm": [
+   37.44,
+   37.85
+  ],
+  "total_units": 4,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "OCReceived",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1796600-1949600",
+   "builtup": "53.99-58.59",
+   "carpet": "37.44-37.85",
+   "rera": "OC Received"
+  }
+ },
+ {
+  "sr": 27,
+  "code": "928-बी",
+  "round": 2,
+  "section": "inclusive-20-pmc",
+  "name_mr": "हॅबिटॅट, विंग सी, बाणेर - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2551700,
+  "price_max": 2722800,
+  "builtup_sqm": [
+   73.03,
+   77.93
+  ],
+  "carpet_sqm": [
+   50.31,
+   52.61
+  ],
+  "total_units": 4,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 2,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "PR1260002500609",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2551700-2722800",
+   "builtup": "73.03-77.93",
+   "carpet": "50.31-52.61",
+   "rera": "PR1260002500609"
+  }
+ },
+ {
+  "sr": 28,
+  "code": "940",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "आस्था हाउसिंग - हडपसर - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2941600,
+  "price_max": 2988100,
+  "builtup_sqm": [
+   84.19,
+   85.52
+  ],
+  "carpet_sqm": [
+   49.95,
+   49.98
+  ],
+  "total_units": 75,
+  "reserved": {
+   "SC": 8,
+   "ST": 5,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 2,
+   "DF": 2,
+   "EX": 4,
+   "MP": 1,
+   "ME": 2,
+   "SG": 4,
+   "CG": 2,
+   "AR": 2,
+   "GP": 37
+  },
+  "rera": "PR1262022601204",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2941600-2988100",
+   "builtup": "84.19-85.52",
+   "carpet": "49.95-49.98",
+   "rera": "PR1262022601204"
+  }
+ },
+ {
+  "sr": 29,
+  "code": "952",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "सेलेस्टिया - फुरसुंगी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2509700,
+  "price_max": 2509700,
+  "builtup_sqm": [
+   75.42,
+   75.42
+  ],
+  "carpet_sqm": [
+   47.36,
+   47.36
+  ],
+  "total_units": 36,
+  "reserved": {
+   "SC": 4,
+   "ST": 2,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 0,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 17
+  },
+  "rera": "P52100078194",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2509700",
+   "builtup": "75.42",
+   "carpet": "47.36",
+   "rera": "P52100078194"
+  }
+ },
+ {
+  "sr": 30,
+  "code": "953",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "क्लाऊड 51 - बावधन (बु.) - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1587800,
+  "price_max": 1813100,
+  "builtup_sqm": [
+   45.44,
+   51.89
+  ],
+  "carpet_sqm": [
+   36.14,
+   37.76
+  ],
+  "total_units": 48,
+  "reserved": {
+   "SC": 5,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 3,
+   "MP": 1,
+   "ME": 1,
+   "SG": 3,
+   "CG": 1,
+   "AR": 1,
+   "GP": 24
+  },
+  "rera": "P52100050833",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1587800-1813100",
+   "builtup": "45.44-51.89",
+   "carpet": "36.14-37.76",
+   "rera": "P52100050833"
+  }
+ },
+ {
+  "sr": 31,
+  "code": "954",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "प्रसून एलारा - लोहगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2846200,
+  "price_max": 2915400,
+  "builtup_sqm": [
+   81.46,
+   83.44
+  ],
+  "carpet_sqm": [
+   48.55,
+   49.76
+  ],
+  "total_units": 42,
+  "reserved": {
+   "SC": 5,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 20
+  },
+  "rera": "PR1260002503034",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2846200-2915400",
+   "builtup": "81.46-83.44",
+   "carpet": "48.55-49.76",
+   "rera": "PR1260002503034"
+  }
+ },
+ {
+  "sr": 32,
+  "code": "955",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "वन अरेथा फेज 1 - धानोरी (बु.) - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2449600,
+  "price_max": 2819000,
+  "builtup_sqm": [
+   70.11,
+   80.68
+  ],
+  "carpet_sqm": [
+   49.11,
+   49.9
+  ],
+  "total_units": 28,
+  "reserved": {
+   "SC": 3,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 14
+  },
+  "rera": "P52100054352",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2449600-2819000",
+   "builtup": "70.11-80.68",
+   "carpet": "49.11-49.9",
+   "rera": "P52100054352"
+  }
+ },
+ {
+  "sr": 33,
+  "code": "956",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "कल्पतरू ब्लॉसम्स (इनक्लुजिव हाऊसिंग), वडगाव (बु.)1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1472700,
+  "price_max": 2109000,
+  "builtup_sqm": [
+   42.15,
+   60.36
+  ],
+  "carpet_sqm": [
+   31.68,
+   45.76
+  ],
+  "total_units": 60,
+  "reserved": {
+   "SC": 7,
+   "ST": 4,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 2,
+   "DF": 1,
+   "EX": 3,
+   "MP": 1,
+   "ME": 1,
+   "SG": 3,
+   "CG": 1,
+   "AR": 1,
+   "GP": 30
+  },
+  "rera": "P52100077715",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1472700-2109000",
+   "builtup": "42.15-60.36",
+   "carpet": "31.68-45.76",
+   "rera": "P52100077715"
+  }
+ },
+ {
+  "sr": 34,
+  "code": "957",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "ग्रँड व्ह्यू विस्मय (ए,बी,सी,डी,ई इमारत), आंबेगाव (बु.)-2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2371600,
+  "price_max": 2450800,
+  "builtup_sqm": [
+   71.27,
+   73.65
+  ],
+  "carpet_sqm": [
+   50.87,
+   52.52
+  ],
+  "total_units": 19,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 10
+  },
+  "rera": "PR1260002500957",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2371600-2450800",
+   "builtup": "71.27-73.65",
+   "carpet": "50.87-52.52",
+   "rera": "PR1260002500957"
+  }
+ },
+ {
+  "sr": 35,
+  "code": "958",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "नेक्सॉन (बी इमारत), म्हाडा, मोहम्मदवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2013300,
+  "price_max": 2057600,
+  "builtup_sqm": [
+   57.62,
+   58.89
+  ],
+  "carpet_sqm": [
+   36.19,
+   38.35
+  ],
+  "total_units": 85,
+  "reserved": {
+   "SC": 10,
+   "ST": 5,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 3,
+   "DF": 2,
+   "EX": 4,
+   "MP": 2,
+   "ME": 2,
+   "SG": 4,
+   "CG": 2,
+   "AR": 2,
+   "GP": 43
+  },
+  "rera": "OCReceived",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2013300-2057600",
+   "builtup": "57.62-58.89",
+   "carpet": "36.19-38.35",
+   "rera": "OC Received"
+  }
+ },
+ {
+  "sr": 36,
+  "code": "959",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "यशराज नक्षत्र फेज 4, सातवननगर, हांडेवाडी, हडपसर-2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2196600,
+  "price_max": 2196600,
+  "builtup_sqm": [
+   66.01,
+   66.01
+  ],
+  "carpet_sqm": [
+   46.92,
+   46.92
+  ],
+  "total_units": 24,
+  "reserved": {
+   "SC": 3,
+   "ST": 1,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 12
+  },
+  "rera": "PR1263032502451",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2196600",
+   "builtup": "66.01",
+   "carpet": "46.92",
+   "rera": "PR1263032502451"
+  }
+ },
+ {
+  "sr": 37,
+  "code": "960-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युनी 89 (सी विंग), मुंढवा - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1780900,
+  "price_max": 1780900,
+  "builtup_sqm": [
+   50.97,
+   50.97
+  ],
+  "carpet_sqm": [
+   37.8,
+   37.8
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "PR1260002502736",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1780900",
+   "builtup": "50.97",
+   "carpet": "37.8",
+   "rera": "PR1260002502736"
+  }
+ },
+ {
+  "sr": 38,
+  "code": "960-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युनी 89 (सी विंग), मुंढवा - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2163200,
+  "price_max": 2252300,
+  "builtup_sqm": [
+   61.91,
+   64.46
+  ],
+  "carpet_sqm": [
+   45.99,
+   48.17
+  ],
+  "total_units": 13,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 1,
+   "AR": 0,
+   "GP": 7
+  },
+  "rera": "PR1260002502736",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2163200-2252300",
+   "builtup": "61.91-64.46",
+   "carpet": "45.99-48.17",
+   "rera": "PR1260002502736"
+  }
+ },
+ {
+  "sr": 39,
+  "code": "961",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "मॅजेस्टिक स्वप्नांगण - धायरी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1662900,
+  "price_max": 1945500,
+  "builtup_sqm": [
+   47.59,
+   55.68
+  ],
+  "carpet_sqm": [
+   35.61,
+   36.1
+  ],
+  "total_units": 42,
+  "reserved": {
+   "SC": 5,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 20
+  },
+  "rera": "PR1260002501741",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1662900-1945500",
+   "builtup": "47.59-55.68",
+   "carpet": "35.61-36.10",
+   "rera": "PR1260002501741"
+  }
+ },
+ {
+  "sr": 40,
+  "code": "962-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युफोरिक ब्लॉसम - हडपसर - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1672600,
+  "price_max": 1791100,
+  "builtup_sqm": [
+   47.87,
+   51.26
+  ],
+  "carpet_sqm": [
+   28.82,
+   29.74
+  ],
+  "total_units": 62,
+  "reserved": {
+   "SC": 7,
+   "ST": 4,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 2,
+   "DF": 1,
+   "EX": 3,
+   "MP": 1,
+   "ME": 1,
+   "SG": 3,
+   "CG": 1,
+   "AR": 1,
+   "GP": 32
+  },
+  "rera": "PR1260002600219",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1672600-1791100",
+   "builtup": "47.87-51.26",
+   "carpet": "28.82-29.74",
+   "rera": "PR1260002600219"
+  }
+ },
+ {
+  "sr": 41,
+  "code": "962-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युफोरिक ब्लॉसम - हडपसर - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2364800,
+  "price_max": 2575000,
+  "builtup_sqm": [
+   67.68,
+   73.7
+  ],
+  "carpet_sqm": [
+   41.22,
+   48.27
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "PR1260002600219",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2364800-2575000",
+   "builtup": "67.68-73.70",
+   "carpet": "41.22-48.27",
+   "rera": "PR1260002600219"
+  }
+ },
+ {
+  "sr": 42,
+  "code": "965-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "मॅजेस्टिक अरावली - वारजे - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1728900,
+  "price_max": 1728900,
+  "builtup_sqm": [
+   49.48,
+   49.48
+  ],
+  "carpet_sqm": [
+   26.15,
+   26.15
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100079924",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1728900",
+   "builtup": "49.48",
+   "carpet": "26.15",
+   "rera": "P52100079924"
+  }
+ },
+ {
+  "sr": 43,
+  "code": "965-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "मॅजेस्टिक अरावली - वारजे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2226100,
+  "price_max": 2301600,
+  "builtup_sqm": [
+   63.71,
+   65.87
+  ],
+  "carpet_sqm": [
+   36.23,
+   37.4
+  ],
+  "total_units": 45,
+  "reserved": {
+   "SC": 5,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 23
+  },
+  "rera": "P52100055877",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2226100-2301600",
+   "builtup": "63.71-65.87",
+   "carpet": "36.23-37.40",
+   "rera": "P52100055877"
+  }
+ },
+ {
+  "sr": 44,
+  "code": "966",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "सुखवाणी वरदे - उंड्री - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2929000,
+  "price_max": 2997500,
+  "builtup_sqm": [
+   83.83,
+   85.79
+  ],
+  "carpet_sqm": [
+   49.05,
+   49.38
+  ],
+  "total_units": 21,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 1,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 11
+  },
+  "rera": "P52100050278",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2929000-2997500",
+   "builtup": "83.83-85.79",
+   "carpet": "49.05-49.38",
+   "rera": "P52100050278"
+  }
+ },
+ {
+  "sr": 45,
+  "code": "967",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "अमारा, केशवनगर, मुंढवा - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2691800,
+  "price_max": 2816500,
+  "builtup_sqm": [
+   77.04,
+   80.61
+  ],
+  "carpet_sqm": [
+   45.22,
+   49.67
+  ],
+  "total_units": 15,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "PR1260002501370",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2691800-2816500",
+   "builtup": "77.04-80.61",
+   "carpet": "45.22-49.67",
+   "rera": "PR1260002501370"
+  }
+ },
+ {
+  "sr": 46,
+  "code": "970",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "एलेट, उंड्री - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2915400,
+  "price_max": 3279100,
+  "builtup_sqm": [
+   83.44,
+   93.85
+  ],
+  "carpet_sqm": [
+   58.92,
+   58.92
+  ],
+  "total_units": 8,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100077745",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2915400-3279100",
+   "builtup": "83.44-93.85",
+   "carpet": "58.92",
+   "rera": "P52100077745"
+  }
+ },
+ {
+  "sr": 47,
+  "code": "971",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "रमणा-मयरा, धायरी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1479400,
+  "price_max": 1487800,
+  "builtup_sqm": [
+   42.34,
+   42.58
+  ],
+  "carpet_sqm": [
+   33.53,
+   34.98
+  ],
+  "total_units": 24,
+  "reserved": {
+   "SC": 3,
+   "ST": 1,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 12
+  },
+  "rera": "P52100053249",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1479400-1487800",
+   "builtup": "42.34-42.58",
+   "carpet": "33.53-34.98",
+   "rera": "P52100053249"
+  }
+ },
+ {
+  "sr": 48,
+  "code": "972-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "अर्चना - प्रेस्टिज, मोहम्मदवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1862700,
+  "price_max": 1884000,
+  "builtup_sqm": [
+   53.31,
+   53.92
+  ],
+  "carpet_sqm": [
+   33.98,
+   34.61
+  ],
+  "total_units": 5,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "P52100050992",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1862700-1884000",
+   "builtup": "53.31-53.92",
+   "carpet": "33.98-34.61",
+   "rera": "P52100050992"
+  }
+ },
+ {
+  "sr": 49,
+  "code": "972-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "अर्चना - प्रेस्टिज, मोहम्मदवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2401100,
+  "price_max": 2450000,
+  "builtup_sqm": [
+   68.72,
+   70.12
+  ],
+  "carpet_sqm": [
+   46.49,
+   50.59
+  ],
+  "total_units": 9,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100050992",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2401100-2450000",
+   "builtup": "68.72- 70.12",
+   "carpet": "46.49- 50.59",
+   "rera": "P52100050992"
+  }
+ },
+ {
+  "sr": 50,
+  "code": "973",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "कांचन हाइट्स, वडगाव (बु.) - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2391700,
+  "price_max": 2391700,
+  "builtup_sqm": [
+   68.45,
+   68.45
+  ],
+  "carpet_sqm": [
+   50.81,
+   50.81
+  ],
+  "total_units": 19,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 10
+  },
+  "rera": "P52100045337",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2391700",
+   "builtup": "68.45",
+   "carpet": "50.81",
+   "rera": "P52100045337"
+  }
+ },
+ {
+  "sr": 51,
+  "code": "979",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "मैत्री मेडोज, लोहगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2888100,
+  "price_max": 2907000,
+  "builtup_sqm": [
+   62.66,
+   83.2
+  ],
+  "carpet_sqm": [
+   49.66,
+   49.87
+  ],
+  "total_units": 69,
+  "reserved": {
+   "SC": 8,
+   "ST": 4,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 2,
+   "DF": 2,
+   "EX": 4,
+   "MP": 1,
+   "ME": 1,
+   "SG": 4,
+   "CG": 1,
+   "AR": 1,
+   "GP": 35
+  },
+  "rera": "PR1260002600354",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2888100-2907000",
+   "builtup": "62.66-83.20",
+   "carpet": "49.66-49.87",
+   "rera": "PR1260002600354"
+  }
+ },
+ {
+  "sr": 52,
+  "code": "980",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "हिल टाउन (ए, बी व सी विंग), कोंढवा - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1727800,
+  "price_max": 1749000,
+  "builtup_sqm": [
+   51.92,
+   52.56
+  ],
+  "carpet_sqm": [
+   36.74,
+   37.03
+  ],
+  "total_units": 21,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 0,
+   "GP": 11
+  },
+  "rera": "P52100017231",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1727800-1749000",
+   "builtup": "51.92-52.56",
+   "carpet": "36.74-37.03",
+   "rera": "P52100017231"
+  }
+ },
+ {
+  "sr": 53,
+  "code": "983",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "रीजेन्सी ॲस्ट्रा फेज 4, बाणेर - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2152700,
+  "price_max": 2296400,
+  "builtup_sqm": [
+   64.69,
+   69.01
+  ],
+  "carpet_sqm": [
+   41.02,
+   41.38
+  ],
+  "total_units": 56,
+  "reserved": {
+   "SC": 6,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 2,
+   "DF": 1,
+   "EX": 3,
+   "MP": 2,
+   "ME": 2,
+   "SG": 3,
+   "CG": 1,
+   "AR": 1,
+   "GP": 28
+  },
+  "rera": "P52100081020",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2152700-2296400",
+   "builtup": "64.69-69.01",
+   "carpet": "41.02-41.38",
+   "rera": "P52100081020"
+  }
+ },
+ {
+  "sr": 54,
+  "code": "988",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "द राईज, धायरी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2672500,
+  "price_max": 2674300,
+  "builtup_sqm": [
+   76.49,
+   76.54
+  ],
+  "carpet_sqm": [
+   45.41,
+   50.72
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100077093",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2672500-2674300",
+   "builtup": "76.49-76.54",
+   "carpet": "45.41-50.72",
+   "rera": "P52100077093"
+  }
+ },
+ {
+  "sr": 55,
+  "code": "990-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "कोहिनूर विवा पिक्सेल फेज-2, धानोरी - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1391300,
+  "price_max": 1391300,
+  "builtup_sqm": [
+   41.81,
+   41.81
+  ],
+  "carpet_sqm": [
+   28.33,
+   28.33
+  ],
+  "total_units": 7,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 0,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100054823",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1391300",
+   "builtup": "41.81",
+   "carpet": "28.33",
+   "rera": "P52100054823"
+  }
+ },
+ {
+  "sr": 56,
+  "code": "990-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "कोहिनूर विवा पिक्सेल फेज-2, धानोरी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2028900,
+  "price_max": 2028900,
+  "builtup_sqm": [
+   60.97,
+   60.97
+  ],
+  "carpet_sqm": [
+   39.82,
+   39.82
+  ],
+  "total_units": 15,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "P52100054823",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2028900",
+   "builtup": "60.97",
+   "carpet": "39.82",
+   "rera": "P52100054823"
+  }
+ },
+ {
+  "sr": 57,
+  "code": "991",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "पार्क-लँड होम्स-2, घोरपडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2697000,
+  "price_max": 2902800,
+  "builtup_sqm": [
+   77.19,
+   83.08
+  ],
+  "carpet_sqm": [
+   50.71,
+   54.57
+  ],
+  "total_units": 32,
+  "reserved": {
+   "SC": 3,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 15
+  },
+  "rera": "P52100080829",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2697000-2902800",
+   "builtup": "77.19-83.08",
+   "carpet": "50.71-54.57",
+   "rera": "P52100080829"
+  }
+ },
+ {
+  "sr": 58,
+  "code": "993",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "प्लॅटिनम टॉवर्स, येवलेवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2479000,
+  "price_max": 2731300,
+  "builtup_sqm": [
+   70.95,
+   78.17
+  ],
+  "carpet_sqm": [
+   49.91,
+   49.97
+  ],
+  "total_units": 13,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 7
+  },
+  "rera": "P52100053201",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2479000-2731300",
+   "builtup": "70.95-78.17",
+   "carpet": "49.91-49.97",
+   "rera": "P52100053201"
+  }
+ },
+ {
+  "sr": 59,
+  "code": "996-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "एलिना-लक्स टॉवर-जी.एच.- मोहम्मदवाडी-1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 2105500,
+  "price_max": 2323800,
+  "builtup_sqm": [
+   60.26,
+   66.51
+  ],
+  "carpet_sqm": [
+   41.21,
+   44.3
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 1,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100052556",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2105500-2323800",
+   "builtup": "60.26-66.51",
+   "carpet": "41.21-44.30",
+   "rera": "P52100052556"
+  }
+ },
+ {
+  "sr": 60,
+  "code": "996-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "एलिना-लक्स टॉवर-जी.एच.- मोहम्मदवाडी-1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2697300,
+  "price_max": 3598800,
+  "builtup_sqm": [
+   77.2,
+   103.0
+  ],
+  "carpet_sqm": [
+   46.09,
+   49.9
+  ],
+  "total_units": 11,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100052556",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2697300-3598800",
+   "builtup": "77.20-103.00",
+   "carpet": "46.09-49.90",
+   "rera": "P52100052556"
+  }
+ },
+ {
+  "sr": 61,
+  "code": "997",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "रेडिसन रॉयल, कोंढवा बु. - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2672200,
+  "price_max": 3226600,
+  "builtup_sqm": [
+   76.48,
+   92.33
+  ],
+  "carpet_sqm": [
+   51.09,
+   60.0
+  ],
+  "total_units": 15,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "P52100052985",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2672200-3226600",
+   "builtup": "76.48-92.33",
+   "carpet": "51.09-60.00",
+   "rera": "P52100052985"
+  }
+ },
+ {
+  "sr": 62,
+  "code": "998",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "व्हॅलेंटिना टॉवर, वडगाव - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1758500,
+  "price_max": 1758500,
+  "builtup_sqm": [
+   50.33,
+   50.33
+  ],
+  "carpet_sqm": [
+   34.48,
+   34.48
+  ],
+  "total_units": 14,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 7
+  },
+  "rera": "P52100051617",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1758500",
+   "builtup": "50.33",
+   "carpet": "34.48",
+   "rera": "P52100051617"
+  }
+ },
+ {
+  "sr": 63,
+  "code": "999",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "पॅसिफिक टॉवर, फुरसुंगी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1751200,
+  "price_max": 1751200,
+  "builtup_sqm": [
+   55.69,
+   55.69
+  ],
+  "carpet_sqm": [
+   41.36,
+   41.36
+  ],
+  "total_units": 19,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 9
+  },
+  "rera": "P52100034823",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1751200",
+   "builtup": "55.69",
+   "carpet": "41.36",
+   "rera": "P52100034823"
+  }
+ },
+ {
+  "sr": 64,
+  "code": "1002-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "व्हीटीपी सिएलो-म्हाडा, बावधन - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1480500,
+  "price_max": 1480500,
+  "builtup_sqm": [
+   44.49,
+   44.49
+  ],
+  "carpet_sqm": [
+   27.52,
+   27.52
+  ],
+  "total_units": 10,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "PR1260002600369",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1480500",
+   "builtup": "44.49",
+   "carpet": "27.52",
+   "rera": "PR1260002600369"
+  }
+ },
+ {
+  "sr": 65,
+  "code": "1002-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "व्हीटीपी सिएलो- म्हाडा, बावधन - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2420200,
+  "price_max": 2447800,
+  "builtup_sqm": [
+   72.73,
+   73.56
+  ],
+  "carpet_sqm": [
+   50.38,
+   51.31
+  ],
+  "total_units": 38,
+  "reserved": {
+   "SC": 4,
+   "ST": 2,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 0,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 19
+  },
+  "rera": "PR1260002600369",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2420200-2447800",
+   "builtup": "72.73-73.56",
+   "carpet": "50.38-51.31",
+   "rera": "PR1260002600369"
+  }
+ },
+ {
+  "sr": 66,
+  "code": "1005",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "लिव्हिएन्स अलींता, पाषाण - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2184400,
+  "price_max": 2308800,
+  "builtup_sqm": [
+   62.52,
+   66.08
+  ],
+  "carpet_sqm": [
+   39.87,
+   43.1
+  ],
+  "total_units": 50,
+  "reserved": {
+   "SC": 6,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 2,
+   "DF": 1,
+   "EX": 3,
+   "MP": 1,
+   "ME": 1,
+   "SG": 3,
+   "CG": 1,
+   "AR": 1,
+   "GP": 24
+  },
+  "rera": "P52100079869",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2184400-2308800",
+   "builtup": "62.52-66.08",
+   "carpet": "39.87-43.10",
+   "rera": "P52100079869"
+  }
+ },
+ {
+  "sr": 67,
+  "code": "1013",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "बसिल कृष्णाई, आंबेगाव खुर्द - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2486600,
+  "price_max": 2511100,
+  "builtup_sqm": [
+   71.17,
+   71.87
+  ],
+  "carpet_sqm": [
+   50.74,
+   50.96
+  ],
+  "total_units": 22,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 1,
+   "AR": 0,
+   "GP": 11
+  },
+  "rera": "PM1260002601326",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2486600-2511100",
+   "builtup": "71.17-71.87",
+   "carpet": "50.74-50.96",
+   "rera": "PM1260002601326"
+  }
+ },
+ {
+  "sr": 68,
+  "code": "1014-ए",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "अतुल्यम इन्क्लुसिव्ह हाऊसिंग, मुंढवा - 1 बीएचके ईडब्ल्युएस",
+  "unit_type": "1 BHK",
+  "price_min": 1678900,
+  "price_max": 1684100,
+  "builtup_sqm": [
+   48.05,
+   48.2
+  ],
+  "carpet_sqm": [
+   21.37,
+   28.15
+  ],
+  "total_units": 7,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 1,
+   "GP": 4
+  },
+  "rera": "P52100053569",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1678900-1684100",
+   "builtup": "48.05-48.20",
+   "carpet": "21.37-28.15",
+   "rera": "P52100053569"
+  }
+ },
+ {
+  "sr": 69,
+  "code": "1014-बी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "अतुल्यम इन्क्लुसिव्ह हाऊसिंग, मुंढवा - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1980800,
+  "price_max": 1980800,
+  "builtup_sqm": [
+   56.69,
+   56.69
+  ],
+  "carpet_sqm": [
+   35.02,
+   35.02
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100053569",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "1980800",
+   "builtup": "56.69",
+   "carpet": "35.02",
+   "rera": "P52100053569"
+  }
+ },
+ {
+  "sr": 70,
+  "code": "1014-सी",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "अतुल्यम इन्क्लुसिव्ह हाऊसिंग, मुंढवा - 1.5 बीएचके",
+  "unit_type": "1.5 BHK",
+  "price_min": 2361900,
+  "price_max": 2429800,
+  "builtup_sqm": [
+   67.6,
+   69.54
+  ],
+  "carpet_sqm": [
+   31.13,
+   37.0
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100053569",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2361900-2429800",
+   "builtup": "67.60-69.54",
+   "carpet": "31.13-37",
+   "rera": "P52100053569"
+  }
+ },
+ {
+  "sr": 71,
+  "code": "1015",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "प्रिव्हिलेज हिल्स, सी-डी बिल्डिंग, कोंढवा खुर्द - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2821000,
+  "price_max": 2821000,
+  "builtup_sqm": [
+   80.74,
+   80.74
+  ],
+  "carpet_sqm": [
+   53.45,
+   53.45
+  ],
+  "total_units": 8,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100076929",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2821000",
+   "builtup": "80.74",
+   "carpet": "53.45",
+   "rera": "P52100076929"
+  }
+ },
+ {
+  "sr": 72,
+  "code": "1016",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "निर्वाणा, बाणेर - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2241200,
+  "price_max": 2241200,
+  "builtup_sqm": [
+   67.35,
+   67.35
+  ],
+  "carpet_sqm": [
+   44.5,
+   44.5
+  ],
+  "total_units": 16,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 1,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "P52100047528",
+  "pdf_page": 1,
+  "flags": [],
+  "raw": {
+   "price": "2241200",
+   "builtup": "67.35",
+   "carpet": "44.5",
+   "rera": "P52100047528"
+  }
+ },
+ {
+  "sr": 73,
+  "code": "1017",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "युफोरिया, धायरी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2298700,
+  "price_max": 2664100,
+  "builtup_sqm": [
+   69.08,
+   80.06
+  ],
+  "carpet_sqm": [
+   49.8,
+   50.41
+  ],
+  "total_units": 17,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 9
+  },
+  "rera": "P52100056468",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2298700-2664100",
+   "builtup": "69.08-80.06",
+   "carpet": "49.80-50.41",
+   "rera": "P52100056468"
+  }
+ },
+ {
+  "sr": 74,
+  "code": "987",
+  "round": 1,
+  "section": "inclusive-20-pmc",
+  "name_mr": "हिल व्ह्यु- बावधन - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2246300,
+  "price_max": 2261300,
+  "builtup_sqm": [
+   64.29,
+   64.72
+  ],
+  "carpet_sqm": [
+   38.81,
+   43.49
+  ],
+  "total_units": 95,
+  "reserved": {
+   "SC": 10,
+   "ST": 6,
+   "NT": 2,
+   "DT": 2,
+   "JR": 2,
+   "FF": 2,
+   "PH": 3,
+   "DF": 2,
+   "EX": 5,
+   "MP": 2,
+   "ME": 2,
+   "SG": 5,
+   "CG": 2,
+   "AR": 2,
+   "GP": 48
+  },
+  "rera": "P52100056468",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2246300-2261300",
+   "builtup": "64.29-64.72",
+   "carpet": "38.81-43.49",
+   "rera": "P52100056468"
+  }
+ },
+ {
+  "sr": 75,
+  "code": "875",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "नक्षत्र आयलँड - फेज 7, मोशी- 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2101800,
+  "price_max": 2101800,
+  "builtup_sqm": [
+   63.16,
+   63.16
+  ],
+  "carpet_sqm": [
+   37.64,
+   37.64
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 2,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 2,
+   "FF": 2,
+   "PH": 0,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100056189",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2101800",
+   "builtup": "63.16",
+   "carpet": "37.64",
+   "rera": "P52100056189"
+  }
+ },
+ {
+  "sr": 76,
+  "code": "877",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "नेक्सस प्राइम स्क्वेअर, मोशी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2517000,
+  "price_max": 2596900,
+  "builtup_sqm": [
+   75.64,
+   78.04
+  ],
+  "carpet_sqm": [
+   47.24,
+   49.85
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100050975",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2517000-2596900",
+   "builtup": "75.64-78.04",
+   "carpet": "47.24-49.85",
+   "rera": "P52100050975"
+  }
+ },
+ {
+  "sr": 77,
+  "code": "878",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "शंकेश्वर स्पर्श, मोशी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1871700,
+  "price_max": 1994700,
+  "builtup_sqm": [
+   53.57,
+   57.09
+  ],
+  "carpet_sqm": [
+   31.27,
+   36.63
+  ],
+  "total_units": 9,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 1,
+   "GP": 0
+  },
+  "rera": "P52100055256",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1871700-1994700",
+   "builtup": "53.57-57.09",
+   "carpet": "31.27-36.63",
+   "rera": "P52100055256"
+  }
+ },
+ {
+  "sr": 78,
+  "code": "879",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "द रायझिंग, ए व बी विंग, किवळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2955200,
+  "price_max": 3188000,
+  "builtup_sqm": [
+   84.58,
+   91.24
+  ],
+  "carpet_sqm": [
+   48.18,
+   50.0
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "PS2100050643",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2955200-3188000",
+   "builtup": "84.58-91.24",
+   "carpet": "48.18-50.00",
+   "rera": "PS2100050643"
+  }
+ },
+ {
+  "sr": 79,
+  "code": "884",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "एएनपी नोव्हा, बालेवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2453500,
+  "price_max": 2709000,
+  "builtup_sqm": [
+   73.73,
+   81.41
+  ],
+  "carpet_sqm": [
+   50.12,
+   51.23
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100080596",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2453500-2709000",
+   "builtup": "73.73-81.41",
+   "carpet": "50.12-51.23",
+   "rera": "P52100080596"
+  }
+ },
+ {
+  "sr": 80,
+  "code": "890",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "हेक्सा टॉवर्स (बी, सी,), डुडुळगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2826800,
+  "price_max": 3000200,
+  "builtup_sqm": [
+   84.95,
+   90.16
+  ],
+  "carpet_sqm": [
+   46.61,
+   49.79
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100053535",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2826800-3000200",
+   "builtup": "84.95-90.16",
+   "carpet": "46.61-49.79",
+   "rera": "P52100053535"
+  }
+ },
+ {
+  "sr": 81,
+  "code": "891",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "मंगलम लाईफ पार्क, डुडुळगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2158000,
+  "price_max": 2666100,
+  "builtup_sqm": [
+   64.85,
+   80.12
+  ],
+  "carpet_sqm": [
+   47.16,
+   55.34
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 2,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 1,
+   "GP": 0
+  },
+  "rera": "P52100047611",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2158000-2666100",
+   "builtup": "64.85-80.12",
+   "carpet": "47.16-55.34",
+   "rera": "P52100047611"
+  }
+ },
+ {
+  "sr": 82,
+  "code": "895",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "के. के. तथास्तु, बोऱ्हाडेवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2658100,
+  "price_max": 2747300,
+  "builtup_sqm": [
+   79.88,
+   82.56
+  ],
+  "carpet_sqm": [
+   49.0,
+   50.0
+  ],
+  "total_units": 15,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 2,
+   "FF": 2,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100080148",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2658100-2747300",
+   "builtup": "79.88-82.56",
+   "carpet": "49.00-50.00",
+   "rera": "P52100080148"
+  }
+ },
+ {
+  "sr": 83,
+  "code": "896",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "केसर हायस्ट्रीट, सी बिल्डिंग, बोऱ्हाडेवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2251900,
+  "price_max": 2399800,
+  "builtup_sqm": [
+   67.67,
+   72.12
+  ],
+  "carpet_sqm": [
+   54.93,
+   59.32
+  ],
+  "total_units": 4,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100077044",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2251900-2399800",
+   "builtup": "67.67-72.12",
+   "carpet": "54.93-59.32",
+   "rera": "P52100077044"
+  }
+ },
+ {
+  "sr": 84,
+  "code": "900",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "सिटी वन वेझदा, किवळे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2106400,
+  "price_max": 2441500,
+  "builtup_sqm": [
+   63.3,
+   73.37
+  ],
+  "carpet_sqm": [
+   44.49,
+   46.68
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100047558",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2106400-2441500",
+   "builtup": "63.30-73.37",
+   "carpet": "44.49-46.68",
+   "rera": "P52100047558"
+  }
+ },
+ {
+  "sr": 85,
+  "code": "901",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "लश - रेसिडेन्सेस, ताथवडे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2232000,
+  "price_max": 2232000,
+  "builtup_sqm": [
+   63.88,
+   63.88
+  ],
+  "carpet_sqm": [
+   39.14,
+   39.14
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 0,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 2,
+   "FF": 2,
+   "PH": 0,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100046871",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2232000",
+   "builtup": "63.88",
+   "carpet": "39.14",
+   "rera": "P52100046871"
+  }
+ },
+ {
+  "sr": 86,
+  "code": "904",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "नेस्ट ईडब्ल्यूएस, ताथवडे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1630600,
+  "price_max": 1980600,
+  "builtup_sqm": [
+   49.0,
+   59.52
+  ],
+  "carpet_sqm": [
+   35.84,
+   44.02
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100045279",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1630600-1980600",
+   "builtup": "49.00-59.52",
+   "carpet": "35.84-44.02",
+   "rera": "P52100045279"
+  }
+ },
+ {
+  "sr": 87,
+  "code": "907",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "शालिग्राम स्काय, किवळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2674400,
+  "price_max": 2921000,
+  "builtup_sqm": [
+   80.37,
+   87.78
+  ],
+  "carpet_sqm": [
+   46.64,
+   50.23
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100033364",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2674400-2921000",
+   "builtup": "80.37-87.78",
+   "carpet": "46.64-50.23",
+   "rera": "P52100033364"
+  }
+ },
+ {
+  "sr": 88,
+  "code": "910",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "द एन्क्लेव्ह - 1, ताथवडे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1947600,
+  "price_max": 1947600,
+  "builtup_sqm": [
+   55.74,
+   55.74
+  ],
+  "carpet_sqm": [
+   32.72,
+   32.72
+  ],
+  "total_units": 14,
+  "reserved": {
+   "SC": 1,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 1,
+   "GP": 2
+  },
+  "rera": "P52100054402",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1947600",
+   "builtup": "55.74",
+   "carpet": "32.72",
+   "rera": "P52100054402"
+  }
+ },
+ {
+  "sr": 89,
+  "code": "911",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "द स्कायलार्क, किवळे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2670100,
+  "price_max": 2670100,
+  "builtup_sqm": [
+   80.24,
+   80.24
+  ],
+  "carpet_sqm": [
+   52.15,
+   52.15
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100054899",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2670100",
+   "builtup": "80.24",
+   "carpet": "52.15",
+   "rera": "P52100054899"
+  }
+ },
+ {
+  "sr": 90,
+  "code": "915",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "सुखवानी किंगस्ले, थेरगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2164000,
+  "price_max": 2164000,
+  "builtup_sqm": [
+   65.03,
+   65.03
+  ],
+  "carpet_sqm": [
+   46.1,
+   46.1
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100031299",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2164000",
+   "builtup": "65.03",
+   "carpet": "46.1",
+   "rera": "P52100031299"
+  }
+ },
+ {
+  "sr": 91,
+  "code": "916",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "टॉप टॉवर्स - ए, वाकड - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1399900,
+  "price_max": 1454900,
+  "builtup_sqm": [
+   42.07,
+   43.72
+  ],
+  "carpet_sqm": [
+   33.18,
+   35.45
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100034929",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1399900-1454900",
+   "builtup": "42.07-43.72",
+   "carpet": "33.18-35.45",
+   "rera": "P52100034929"
+  }
+ },
+ {
+  "sr": 92,
+  "code": "917",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "यशविन अर्बो सेंट्रो फेज 2, वाकड - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2842800,
+  "price_max": 2874400,
+  "builtup_sqm": [
+   85.43,
+   86.38
+  ],
+  "carpet_sqm": [
+   49.55,
+   50.31
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100077674",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2842800-2874400",
+   "builtup": "85.43-86.38",
+   "carpet": "49.55-50.31",
+   "rera": "P52100077674"
+  }
+ },
+ {
+  "sr": 93,
+  "code": "921",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "द कॅमेलिया - फेज 1, वाकड - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2043200,
+  "price_max": 2047500,
+  "builtup_sqm": [
+   61.4,
+   61.53
+  ],
+  "carpet_sqm": [
+   42.28,
+   43.71
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100045231",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2043200-2047500",
+   "builtup": "61.40-61.53",
+   "carpet": "42.28-43.71",
+   "rera": "P52100045231"
+  }
+ },
+ {
+  "sr": 94,
+  "code": "927",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "आरकेएल शिवपुरम, चऱ्होली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2239700,
+  "price_max": 2363700,
+  "builtup_sqm": [
+   64.1,
+   67.65
+  ],
+  "carpet_sqm": [
+   34.63,
+   42.07
+  ],
+  "total_units": 7,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 1,
+   "GP": 0
+  },
+  "rera": "P52100053028",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2239700-2363700",
+   "builtup": "64.10-67.65",
+   "carpet": "34.63-42.07",
+   "rera": "P52100053028"
+  }
+ },
+ {
+  "sr": 95,
+  "code": "876-अ",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "नेक्सस किनारा (बी व सी), चिखली 1/1.5 बीएचके",
+  "unit_type": "1.5 BHK",
+  "price_min": 1457900,
+  "price_max": 2232500,
+  "builtup_sqm": [
+   43.81,
+   67.09
+  ],
+  "carpet_sqm": [
+   30.3,
+   47.07
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100031120",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1457900-2232500",
+   "builtup": "43.81-67.09",
+   "carpet": "30.30-47.07",
+   "rera": "P52100031120"
+  }
+ },
+ {
+  "sr": 96,
+  "code": "892-बी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "प्रिझम सिटी स्कायलाइफ, चऱ्होली - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 1783300,
+  "price_max": 2583600,
+  "builtup_sqm": [
+   53.59,
+   77.64
+  ],
+  "carpet_sqm": [
+   41.46,
+   49.9
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100078248",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1783300 - 2583600",
+   "builtup": "53.59 - 77.64",
+   "carpet": "41.46-49.90",
+   "rera": "P52100078248"
+  }
+ },
+ {
+  "sr": 97,
+  "code": "894-ए",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "भालचंद्र इम्पेरियल, चिखली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2023500,
+  "price_max": 2281100,
+  "builtup_sqm": [
+   60.81,
+   68.55
+  ],
+  "carpet_sqm": [
+   35.11,
+   40.52
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100077609",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2023500-2281100",
+   "builtup": "60.81-68.55",
+   "carpet": "35.11-40.52",
+   "rera": "P52100077609"
+  }
+ },
+ {
+  "sr": 98,
+  "code": "897-ए",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "श्री साई फॉर्च्यून, मोशी - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1873500,
+  "price_max": 1873500,
+  "builtup_sqm": [
+   53.62,
+   53.62
+  ],
+  "carpet_sqm": [
+   37.96,
+   37.96
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100047346",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1873500",
+   "builtup": "53.62",
+   "carpet": "37.96",
+   "rera": "P52100047346"
+  }
+ },
+ {
+  "sr": 99,
+  "code": "897-बी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "श्री साई फॉर्च्यून, मोशी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2215900,
+  "price_max": 2388900,
+  "builtup_sqm": [
+   63.42,
+   68.37
+  ],
+  "carpet_sqm": [
+   34.86,
+   42.86
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100047346",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2215900-2388900",
+   "builtup": "63.42-68.37",
+   "carpet": "34.86-42.86",
+   "rera": "P52100047346"
+  }
+ },
+ {
+  "sr": 100,
+  "code": "899-बी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "41 झिलेनिया, पुनावळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2368300,
+  "price_max": 3089800,
+  "builtup_sqm": [
+   67.78,
+   88.43
+  ],
+  "carpet_sqm": [
+   45.94,
+   52.45
+  ],
+  "total_units": 9,
+  "reserved": {
+   "SC": 0,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100051790",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2368300-3089800",
+   "builtup": "67.78-88.43",
+   "carpet": "45.94-52.45",
+   "rera": "P52100051790"
+  }
+ },
+ {
+  "sr": 101,
+  "code": "905-ए",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "औदुंबर रेसिडेन्सी, पिंपळे निलख - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2452800,
+  "price_max": 2527900,
+  "builtup_sqm": [
+   70.2,
+   72.35
+  ],
+  "carpet_sqm": [
+   31.47,
+   34.04
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100051532",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2452800-2527900",
+   "builtup": "70.20-72.35",
+   "carpet": "31.47-34.04",
+   "rera": "P52100051532"
+  }
+ },
+ {
+  "sr": 102,
+  "code": "908-ए",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "शुभारंभ क्लारा, रावेत - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1900000,
+  "price_max": 1900000,
+  "builtup_sqm": [
+   54.38,
+   54.38
+  ],
+  "carpet_sqm": [
+   37.46,
+   37.46
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100076634",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1900000",
+   "builtup": "54.38",
+   "carpet": "37.46",
+   "rera": "P52100076634"
+  }
+ },
+ {
+  "sr": 103,
+  "code": "908-बी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "शुभारंभ क्लारा, रावेत - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2446800,
+  "price_max": 2463700,
+  "builtup_sqm": [
+   70.03,
+   70.51
+  ],
+  "carpet_sqm": [
+   50.09,
+   50.69
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 0,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100076634",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2446800-2463700",
+   "builtup": "70.03-70.51",
+   "carpet": "50.09-50.69",
+   "rera": "P52100076634"
+  }
+ },
+ {
+  "sr": 104,
+  "code": "929-ए",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "18 अल्टिट्यूड, चिंचवड - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 3083100,
+  "price_max": 3083100,
+  "builtup_sqm": [
+   88.24,
+   88.24
+  ],
+  "carpet_sqm": [
+   44.18,
+   44.18
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100076759",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3083100",
+   "builtup": "88.24",
+   "carpet": "44.18",
+   "rera": "P52100076759"
+  }
+ },
+ {
+  "sr": 105,
+  "code": "929-बी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "18 अल्टिट्यूड, चिंचवड - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2537300,
+  "price_max": 3518400,
+  "builtup_sqm": [
+   72.62,
+   100.7
+  ],
+  "carpet_sqm": [
+   43.5,
+   49.87
+  ],
+  "total_units": 8,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 1,
+   "SG": 0,
+   "CG": 1,
+   "AR": 1,
+   "GP": 0
+  },
+  "rera": "P52100076759",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2537300-3518400",
+   "builtup": "72.62-100.70",
+   "carpet": "43.50-49.87",
+   "rera": "P52100076759"
+  }
+ },
+ {
+  "sr": 106,
+  "code": "930-बी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "लाईफ कॅनव्हास फेज-2, मामुर्डी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2849100,
+  "price_max": 3113400,
+  "builtup_sqm": [
+   85.62,
+   93.56
+  ],
+  "carpet_sqm": [
+   49.51,
+   49.9
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100053517",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2849100-3113400",
+   "builtup": "85.62-93.56",
+   "carpet": "49.51-49.90",
+   "rera": "P52100053517"
+  }
+ },
+ {
+  "sr": 107,
+  "code": "931-ए",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "शाईन सिटी- फेज 3 व 4, चिखली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1569700,
+  "price_max": 1613300,
+  "builtup_sqm": [
+   47.17,
+   48.48
+  ],
+  "carpet_sqm": [
+   35.68,
+   37.12
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 0
+  },
+  "rera": "P52100013445",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1569700-1613300",
+   "builtup": "47.17-48.48",
+   "carpet": "35.68-37.12",
+   "rera": "P52100013445"
+  }
+ },
+ {
+  "sr": 108,
+  "code": "931-सी",
+  "round": 2,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "शाईन सिटी- फेज 5, चिखली - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2766300,
+  "price_max": 2922300,
+  "builtup_sqm": [
+   83.13,
+   87.82
+  ],
+  "carpet_sqm": [
+   49.87,
+   52.04
+  ],
+  "total_units": 10,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 0,
+   "DF": 1,
+   "EX": 0,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 1
+  },
+  "rera": "P52100080761",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2766300-2922300",
+   "builtup": "83.13-87.82",
+   "carpet": "49.87-52.04",
+   "rera": "P52100080761"
+  }
+ },
+ {
+  "sr": 109,
+  "code": "934-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "18-मॅग्नेट्यूड - पुनावळे - 1 बीएचके ईडब्ल्युएस",
+  "unit_type": "1 BHK",
+  "price_min": 1718000,
+  "price_max": 1718000,
+  "builtup_sqm": [
+   49.17,
+   49.17
+  ],
+  "carpet_sqm": [
+   29.52,
+   29.52
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100052534",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1718000",
+   "builtup": "49.17",
+   "carpet": "29.52",
+   "rera": "P52100052534"
+  }
+ },
+ {
+  "sr": 110,
+  "code": "934-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "18-मॅग्नेट्यूड - पुनावळे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2312000,
+  "price_max": 2772100,
+  "builtup_sqm": [
+   66.17,
+   79.34
+  ],
+  "carpet_sqm": [
+   40.88,
+   48.19
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 1,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100052534",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2312000-2772100",
+   "builtup": "66.17-79.34",
+   "carpet": "40.88-48.19",
+   "rera": "P52100052534"
+  }
+ },
+ {
+  "sr": 111,
+  "code": "934-सी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "18-मॅग्नेट्यूड - पुनावळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3111700,
+  "price_max": 3175700,
+  "builtup_sqm": [
+   89.06,
+   90.89
+  ],
+  "carpet_sqm": [
+   50.0,
+   50.11
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "P52100052534",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3111700-3175700",
+   "builtup": "89.06-90.89",
+   "carpet": "50.00-50.11",
+   "rera": "P52100052534"
+  }
+ },
+ {
+  "sr": 112,
+  "code": "935-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "आरीया - पुनावळे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2396800,
+  "price_max": 2595800,
+  "builtup_sqm": [
+   68.6,
+   74.29
+  ],
+  "carpet_sqm": [
+   35.5,
+   41.67
+  ],
+  "total_units": 132,
+  "reserved": {
+   "SC": 15,
+   "ST": 8,
+   "NT": 2,
+   "DT": 2,
+   "JR": 3,
+   "FF": 3,
+   "PH": 4,
+   "DF": 3,
+   "EX": 7,
+   "MP": 3,
+   "ME": 3,
+   "SG": 7,
+   "CG": 3,
+   "AR": 3,
+   "GP": 66
+  },
+  "rera": "P52100080612",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2396800-2595800",
+   "builtup": "68.60-74.29",
+   "carpet": "35.50-41.67",
+   "rera": "P52100080612"
+  }
+ },
+ {
+  "sr": 113,
+  "code": "935-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "आरिया - पुनावळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2709800,
+  "price_max": 2749800,
+  "builtup_sqm": [
+   77.56,
+   78.7
+  ],
+  "carpet_sqm": [
+   46.37,
+   46.93
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 1,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100080612",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2709800-2749800",
+   "builtup": "77.56-78.70",
+   "carpet": "46.37-46.93",
+   "rera": "P52100080612"
+  }
+ },
+ {
+  "sr": 114,
+  "code": "936",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "कोहिनूर अवंतारा, ताथवडे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2780400,
+  "price_max": 2790600,
+  "builtup_sqm": [
+   79.58,
+   79.87
+  ],
+  "carpet_sqm": [
+   50.05,
+   50.4
+  ],
+  "total_units": 88,
+  "reserved": {
+   "SC": 10,
+   "ST": 5,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 3,
+   "DF": 2,
+   "EX": 5,
+   "MP": 2,
+   "ME": 2,
+   "SG": 5,
+   "CG": 2,
+   "AR": 2,
+   "GP": 44
+  },
+  "rera": "PR1260002501984",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2780400-2790600",
+   "builtup": "79.58-79.87",
+   "carpet": "50.05-50.40",
+   "rera": "PR1260002501984"
+  }
+ },
+ {
+  "sr": 115,
+  "code": "937",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "कोरल नेस्ट, मोशी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3167300,
+  "price_max": 3351100,
+  "builtup_sqm": [
+   90.65,
+   95.91
+  ],
+  "carpet_sqm": [
+   49.66,
+   50.69
+  ],
+  "total_units": 15,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "P52100078505",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 14, but the ad prints a total of 15."
+  ],
+  "raw": {
+   "price": "3167300-3351100",
+   "builtup": "90.65-95.91",
+   "carpet": "49.66-50.69",
+   "rera": "P52100078505"
+  }
+ },
+ {
+  "sr": 116,
+  "code": "938",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "एनव्होग - 2, आकुर्डी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3427600,
+  "price_max": 3440500,
+  "builtup_sqm": [
+   98.1,
+   98.47
+  ],
+  "carpet_sqm": [
+   49.95,
+   50.11
+  ],
+  "total_units": 38,
+  "reserved": {
+   "SC": 2,
+   "ST": 2,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 18
+  },
+  "rera": "P52100077680",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 36, but the ad prints a total of 38."
+  ],
+  "raw": {
+   "price": "3427600-3440500",
+   "builtup": "98.10-98.47",
+   "carpet": "49.95-50.11",
+   "rera": "P52100077680"
+  }
+ },
+ {
+  "sr": 117,
+  "code": "939-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "गणेश सिद्धी फेज - 3, चिखली - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1640900,
+  "price_max": 1640900,
+  "builtup_sqm": [
+   49.31,
+   49.31
+  ],
+  "carpet_sqm": [
+   27.8,
+   30.7
+  ],
+  "total_units": 9,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100045411",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1640900",
+   "builtup": "49.31",
+   "carpet": "27.80-30.70",
+   "rera": "P52100045411"
+  }
+ },
+ {
+  "sr": 118,
+  "code": "939-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "गणेश सिद्धी फेज - 3, चिखली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2055200,
+  "price_max": 2124700,
+  "builtup_sqm": [
+   61.76,
+   63.85
+  ],
+  "carpet_sqm": [
+   36.57,
+   38.31
+  ],
+  "total_units": 23,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 12
+  },
+  "rera": "P52100045411",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 21, but the ad prints a total of 23."
+  ],
+  "raw": {
+   "price": "2055200-2124700",
+   "builtup": "61.76-63.85",
+   "carpet": "36.57-38.31",
+   "rera": "P52100045411"
+  }
+ },
+ {
+  "sr": 119,
+  "code": "941",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "सिग्नेचर पार्क (एम इमारत), म्हाडा, थेरगाव - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2316900,
+  "price_max": 2316900,
+  "builtup_sqm": [
+   66.31,
+   66.31
+  ],
+  "carpet_sqm": [
+   41.15,
+   41.15
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 1,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100032493",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2316900",
+   "builtup": "66.31",
+   "carpet": "41.15",
+   "rera": "P52100032493"
+  }
+ },
+ {
+  "sr": 120,
+  "code": "942",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "स्टेला - बी-1, डुडुळगाव - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2654500,
+  "price_max": 2665500,
+  "builtup_sqm": [
+   79.77,
+   80.1
+  ],
+  "carpet_sqm": [
+   47.7,
+   48.26
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100053511",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2654500-2665500",
+   "builtup": "79.77-80.10",
+   "carpet": "47.70-48.26",
+   "rera": "P52100053511"
+  }
+ },
+ {
+  "sr": 121,
+  "code": "943",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "स्टार व्हिस्टा, रावेत - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2782300,
+  "price_max": 2861900,
+  "builtup_sqm": [
+   79.63,
+   81.91
+  ],
+  "carpet_sqm": [
+   49.06,
+   49.27
+  ],
+  "total_units": 16,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 1,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "P52100080257",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 15, but the ad prints a total of 16."
+  ],
+  "raw": {
+   "price": "2782300-2861900",
+   "builtup": "79.63-81.91",
+   "carpet": "49.06-49.27",
+   "rera": "P52100080257"
+  }
+ },
+ {
+  "sr": 122,
+  "code": "944",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "द एन्क्लेव्ह 2, ताथवडे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2538100,
+  "price_max": 2558000,
+  "builtup_sqm": [
+   72.64,
+   73.21
+  ],
+  "carpet_sqm": [
+   39.06,
+   44.85
+  ],
+  "total_units": 27,
+  "reserved": {
+   "SC": 3,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 14
+  },
+  "rera": "P52100053797",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2538100-2558000",
+   "builtup": "72.64-73.21",
+   "carpet": "39.06-44.85",
+   "rera": "P52100053797"
+  }
+ },
+ {
+  "sr": 123,
+  "code": "945",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "युथोपिया गोल्ड, बोऱ्हाडेवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3102000,
+  "price_max": 3208500,
+  "builtup_sqm": [
+   88.78,
+   91.83
+  ],
+  "carpet_sqm": [
+   52.27,
+   59.19
+  ],
+  "total_units": 18,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 0,
+   "GP": 9
+  },
+  "rera": "P52100033254",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 17, but the ad prints a total of 18."
+  ],
+  "raw": {
+   "price": "3102000-3208500",
+   "builtup": "88.78-91.83",
+   "carpet": "52.27-59.19",
+   "rera": "P52100033254"
+  }
+ },
+ {
+  "sr": 124,
+  "code": "946",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "व्हिजन 24 डिग्री, वडमुखवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2612900,
+  "price_max": 3562400,
+  "builtup_sqm": [
+   74.78,
+   101.96
+  ],
+  "carpet_sqm": [
+   48.27,
+   49.99
+  ],
+  "total_units": 10,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100066503",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2612900-3562400",
+   "builtup": "74.78-101.96",
+   "carpet": "48.27-49.99",
+   "rera": "P52100066503"
+  }
+ },
+ {
+  "sr": 125,
+  "code": "947",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "विवांता नेक्स्ट, ताथवडे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2823100,
+  "price_max": 2823100,
+  "builtup_sqm": [
+   84.84,
+   84.84
+  ],
+  "carpet_sqm": [
+   46.79,
+   46.79
+  ],
+  "total_units": 12,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100050053",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2823100",
+   "builtup": "84.84",
+   "carpet": "46.79",
+   "rera": "P52100050053"
+  }
+ },
+ {
+  "sr": 126,
+  "code": "948-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "विन्सम माउंटन - क्रेस्ट, चऱ्होली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2050700,
+  "price_max": 2050700,
+  "builtup_sqm": [
+   58.69,
+   58.69
+  ],
+  "carpet_sqm": [
+   32.8,
+   32.8
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100078713",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 1, but the ad prints a total of 2."
+  ],
+  "raw": {
+   "price": "2050700",
+   "builtup": "58.69",
+   "carpet": "32.8",
+   "rera": "P52100078713"
+  }
+ },
+ {
+  "sr": 127,
+  "code": "948-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "विन्सम माउंटन - क्रेस्ट, चऱ्होली - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2787900,
+  "price_max": 2787900,
+  "builtup_sqm": [
+   79.79,
+   79.79
+  ],
+  "carpet_sqm": [
+   46.26,
+   46.26
+  ],
+  "total_units": 16,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 8
+  },
+  "rera": "P52100078713",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 15, but the ad prints a total of 16."
+  ],
+  "raw": {
+   "price": "2787900",
+   "builtup": "79.79",
+   "carpet": "46.26",
+   "rera": "P52100078713"
+  }
+ },
+ {
+  "sr": 128,
+  "code": "949-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "डेस्टिनेशन मंगलम मार्व्हेल, चऱ्होली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1807500,
+  "price_max": 1807500,
+  "builtup_sqm": [
+   51.73,
+   51.73
+  ],
+  "carpet_sqm": [
+   33.28,
+   33.28
+  ],
+  "total_units": 11,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 1,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100055285",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1807500",
+   "builtup": "51.73",
+   "carpet": "33.28",
+   "rera": "P52100055285"
+  }
+ },
+ {
+  "sr": 129,
+  "code": "949-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "डेस्टिनेशन मंगलम मार्व्हेल, चऱ्होली - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2586600,
+  "price_max": 2836000,
+  "builtup_sqm": [
+   74.03,
+   81.17
+  ],
+  "carpet_sqm": [
+   48.1,
+   48.1
+  ],
+  "total_units": 18,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 9
+  },
+  "rera": "P52100055285",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 17, but the ad prints a total of 18."
+  ],
+  "raw": {
+   "price": "2586600-2836000",
+   "builtup": "74.03-81.17",
+   "carpet": "48.1",
+   "rera": "P52100055285"
+  }
+ },
+ {
+  "sr": 130,
+  "code": "950",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "स्पर्श - रावेत - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3164200,
+  "price_max": 3271400,
+  "builtup_sqm": [
+   90.56,
+   93.63
+  ],
+  "carpet_sqm": [
+   48.91,
+   50.38
+  ],
+  "total_units": 14,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 7
+  },
+  "rera": "-",
+  "pdf_page": 2,
+  "flags": [
+   "Category counts in the ad add up to 13, but the ad prints a total of 14."
+  ],
+  "raw": {
+   "price": "3164200-3271400",
+   "builtup": "90.56-93.63",
+   "carpet": "48.91-50.38",
+   "rera": "-"
+  }
+ },
+ {
+  "sr": 131,
+  "code": "951",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "कमलराज अक्षरधाम (बी-सी इमारत), चोवीसवाडी-2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2960400,
+  "price_max": 2960400,
+  "builtup_sqm": [
+   84.73,
+   84.73
+  ],
+  "carpet_sqm": [
+   49.02,
+   49.02
+  ],
+  "total_units": 16,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 8
+  },
+  "rera": "P52100056285",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2960400",
+   "builtup": "84.73",
+   "carpet": "49.02",
+   "rera": "P52100056285"
+  }
+ },
+ {
+  "sr": 132,
+  "code": "963",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "कोहिनूर वेस्ट व्ह्यू रिझर्व्ह - पुनावळे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2495100,
+  "price_max": 2757500,
+  "builtup_sqm": [
+   71.41,
+   78.92
+  ],
+  "carpet_sqm": [
+   43.59,
+   46.4
+  ],
+  "total_units": 102,
+  "reserved": {
+   "SC": 11,
+   "ST": 7,
+   "NT": 2,
+   "DT": 2,
+   "JR": 3,
+   "FF": 3,
+   "PH": 3,
+   "DF": 2,
+   "EX": 5,
+   "MP": 2,
+   "ME": 2,
+   "SG": 5,
+   "CG": 2,
+   "AR": 2,
+   "GP": 51
+  },
+  "rera": "P52100055120",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2495100-2757500",
+   "builtup": "71.41-78.92",
+   "carpet": "43.59-46.40",
+   "rera": "P52100055120"
+  }
+ },
+ {
+  "sr": 133,
+  "code": "969-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "प्रेसिडेन्शियल टॉवर्स, रावेत - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2567400,
+  "price_max": 2567400,
+  "builtup_sqm": [
+   73.48,
+   73.48
+  ],
+  "carpet_sqm": [
+   44.04,
+   44.04
+  ],
+  "total_units": 1,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100046807",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2567400",
+   "builtup": "73.48",
+   "carpet": "44.04",
+   "rera": "P52100046807"
+  }
+ },
+ {
+  "sr": 134,
+  "code": "969-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "प्रेसिडेन्शियल टॉवर्स, रावेत - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3372700,
+  "price_max": 3636100,
+  "builtup_sqm": [
+   96.53,
+   104.07
+  ],
+  "carpet_sqm": [
+   52.28,
+   54.03
+  ],
+  "total_units": 24,
+  "reserved": {
+   "SC": 3,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 12
+  },
+  "rera": "P52100046807",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3372700-3636100",
+   "builtup": "96.53-104.07",
+   "carpet": "52.28-54.03",
+   "rera": "P52100046807"
+  }
+ },
+ {
+  "sr": 135,
+  "code": "974",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "पी. के. कॅनोपस, वाकड - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2744900,
+  "price_max": 2760200,
+  "builtup_sqm": [
+   78.56,
+   79.0
+  ],
+  "carpet_sqm": [
+   53.28,
+   53.59
+  ],
+  "total_units": 36,
+  "reserved": {
+   "SC": 4,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 18
+  },
+  "rera": "PM1260002501264",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2744900-2760200",
+   "builtup": "78.56-79.00",
+   "carpet": "53.28-53.59",
+   "rera": "PM1260002501264"
+  }
+ },
+ {
+  "sr": 136,
+  "code": "975",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "फेअरमाँट, वाकड - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1626900,
+  "price_max": 1626900,
+  "builtup_sqm": [
+   46.56,
+   46.56
+  ],
+  "carpet_sqm": [
+   31.94,
+   31.94
+  ],
+  "total_units": 20,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 10
+  },
+  "rera": "P52100030773",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1626900",
+   "builtup": "46.56",
+   "carpet": "31.94",
+   "rera": "P52100030773"
+  }
+ },
+ {
+  "sr": 137,
+  "code": "976",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "यशदा ड्रीमसाँग, मामुर्डी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2808100,
+  "price_max": 2808100,
+  "builtup_sqm": [
+   80.37,
+   80.37
+  ],
+  "carpet_sqm": [
+   49.93,
+   49.93
+  ],
+  "total_units": 23,
+  "reserved": {
+   "SC": 3,
+   "ST": 1,
+   "NT": 1,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 12
+  },
+  "rera": "P52100078168",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2808100",
+   "builtup": "80.37",
+   "carpet": "49.93",
+   "rera": "P52100078168"
+  }
+ },
+ {
+  "sr": 138,
+  "code": "977-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "41 लक्सोव्हर्ट, ताथवडे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2183100,
+  "price_max": 2183100,
+  "builtup_sqm": [
+   62.48,
+   62.48
+  ],
+  "carpet_sqm": [
+   37.09,
+   37.09
+  ],
+  "total_units": 11,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "P52100055641",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2183100",
+   "builtup": "62.48",
+   "carpet": "37.09",
+   "rera": "P52100055641"
+  }
+ },
+ {
+  "sr": 139,
+  "code": "977-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "41 लक्सोव्हर्ट, ताथवडे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2855000,
+  "price_max": 2855000,
+  "builtup_sqm": [
+   81.71,
+   81.71
+  ],
+  "carpet_sqm": [
+   49.97,
+   49.97
+  ],
+  "total_units": 39,
+  "reserved": {
+   "SC": 4,
+   "ST": 2,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 19
+  },
+  "rera": "P52100055641",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2855000",
+   "builtup": "81.71",
+   "carpet": "49.97",
+   "rera": "P52100055641"
+  }
+ },
+ {
+  "sr": 140,
+  "code": "978",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "प्रायमल प्राईड, चिखली - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2443700,
+  "price_max": 2502400,
+  "builtup_sqm": [
+   69.94,
+   71.62
+  ],
+  "carpet_sqm": [
+   37.96,
+   42.03
+  ],
+  "total_units": 20,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 10
+  },
+  "rera": "P52100052020",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2443700-2502400",
+   "builtup": "69.94-71.62",
+   "carpet": "37.96-42.03",
+   "rera": "P52100052020"
+  }
+ },
+ {
+  "sr": 141,
+  "code": "981-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "ॲक्वा लाइफ (ए इमारत), रावेत - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1657200,
+  "price_max": 1657200,
+  "builtup_sqm": [
+   47.43,
+   47.43
+  ],
+  "carpet_sqm": [
+   28.02,
+   28.02
+  ],
+  "total_units": 3,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100080708",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1657200",
+   "builtup": "47.43",
+   "carpet": "28.02",
+   "rera": "P52100080708"
+  }
+ },
+ {
+  "sr": 142,
+  "code": "981-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "ॲक्वा लाइफ (ए इमारत), रावेत - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3335300,
+  "price_max": 3512400,
+  "builtup_sqm": [
+   95.46,
+   100.53
+  ],
+  "carpet_sqm": [
+   50.04,
+   54.23
+  ],
+  "total_units": 9,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 1,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100080708",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3335300-3512400",
+   "builtup": "95.46-100.53",
+   "carpet": "50.04-54.23",
+   "rera": "P52100080708"
+  }
+ },
+ {
+  "sr": 143,
+  "code": "982",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "लेगेसी माईलस्टोन, पुनावळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2985700,
+  "price_max": 3423000,
+  "builtup_sqm": [
+   85.45,
+   97.97
+  ],
+  "carpet_sqm": [
+   47.22,
+   55.04
+  ],
+  "total_units": 48,
+  "reserved": {
+   "SC": 5,
+   "ST": 3,
+   "NT": 1,
+   "DT": 2,
+   "JR": 2,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 24
+  },
+  "rera": "P52100077968",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2985700-3423000",
+   "builtup": "85.45-97.97",
+   "carpet": "47.22-55.04",
+   "rera": "P52100077968"
+  }
+ },
+ {
+  "sr": 144,
+  "code": "984",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "द एन्क्लेव्ह, बालेवाडी - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1709300,
+  "price_max": 1785400,
+  "builtup_sqm": [
+   48.92,
+   51.1
+  ],
+  "carpet_sqm": [
+   28.23,
+   29.74
+  ],
+  "total_units": 72,
+  "reserved": {
+   "SC": 8,
+   "ST": 4,
+   "NT": 1,
+   "DT": 1,
+   "JR": 2,
+   "FF": 2,
+   "PH": 2,
+   "DF": 2,
+   "EX": 4,
+   "MP": 1,
+   "ME": 2,
+   "SG": 4,
+   "CG": 2,
+   "AR": 1,
+   "GP": 36
+  },
+  "rera": "PM1260002600377",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1709300-1785400",
+   "builtup": "48.92-51.10",
+   "carpet": "28.23-29.74",
+   "rera": "PM1260002600377"
+  }
+ },
+ {
+  "sr": 145,
+  "code": "985-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "आयव्हरी हाइट्स, चोवीसवाडी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1435400,
+  "price_max": 2786100,
+  "builtup_sqm": [
+   41.08,
+   79.74
+  ],
+  "carpet_sqm": [
+   33.94,
+   49.87
+  ],
+  "total_units": 24,
+  "reserved": {
+   "SC": 3,
+   "ST": 1,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 12
+  },
+  "rera": "P52100053447",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1435400-2786100",
+   "builtup": "41.08-79.74",
+   "carpet": "33.94-49.87",
+   "rera": "P52100053447"
+  }
+ },
+ {
+  "sr": 146,
+  "code": "985-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "आयव्हरी हाइट्स, चोवीसवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2486000,
+  "price_max": 2811900,
+  "builtup_sqm": [
+   71.15,
+   80.48
+  ],
+  "carpet_sqm": [
+   46.84,
+   49.96
+  ],
+  "total_units": 7,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 1,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 1,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100053447",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2486000-2811900",
+   "builtup": "71.15-80.48",
+   "carpet": "46.84-49.96",
+   "rera": "P52100053447"
+  }
+ },
+ {
+  "sr": 147,
+  "code": "986-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "लेगेसी कैरोस (सी-डी इमारत), रहाटणी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 3324800,
+  "price_max": 3561000,
+  "builtup_sqm": [
+   95.16,
+   101.92
+  ],
+  "carpet_sqm": [
+   50.18,
+   53.55
+  ],
+  "total_units": 16,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 1,
+   "GP": 8
+  },
+  "rera": "P52100047901",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3324800-3561000",
+   "builtup": "95.16-101.92",
+   "carpet": "50.18-53.55",
+   "rera": "P52100047901"
+  }
+ },
+ {
+  "sr": 148,
+  "code": "986-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "लेगेसी कैरोस (सी-डी इमारत), रहाटणी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 4079600,
+  "price_max": 4644200,
+  "builtup_sqm": [
+   116.76,
+   132.92
+  ],
+  "carpet_sqm": [
+   55.94,
+   59.03
+  ],
+  "total_units": 19,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 2,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 10
+  },
+  "rera": "P52100047901",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "4079600-4644200",
+   "builtup": "116.76-132.92",
+   "carpet": "55.94.59.03",
+   "rera": "P52100047901"
+  }
+ },
+ {
+  "sr": 149,
+  "code": "989-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "वेद-कृष्णरंग, वडमुखवाडी - 1.5 बीएचके",
+  "unit_type": "1.5 BHK",
+  "price_min": 1798000,
+  "price_max": 1798000,
+  "builtup_sqm": [
+   51.46,
+   51.46
+  ],
+  "carpet_sqm": [
+   37.31,
+   37.31
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "P52100080801",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1798000",
+   "builtup": "51.46",
+   "carpet": "37.31",
+   "rera": "P52100080801"
+  }
+ },
+ {
+  "sr": 150,
+  "code": "989-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "वेद-कृष्णरंग, वडमुखवाडी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2233000,
+  "price_max": 2746600,
+  "builtup_sqm": [
+   63.91,
+   78.61
+  ],
+  "carpet_sqm": [
+   47.38,
+   53.18
+  ],
+  "total_units": 8,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100080801",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2233000-2746600",
+   "builtup": "63.91-78.61",
+   "carpet": "47.38-53.18",
+   "rera": "P52100080801"
+  }
+ },
+ {
+  "sr": 151,
+  "code": "989-सी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "वेद-कृष्णरंग, वडमुखवाडी - 2.5 बीएचके",
+  "unit_type": "2.5 BHK",
+  "price_min": 2524400,
+  "price_max": 2535200,
+  "builtup_sqm": [
+   72.25,
+   72.56
+  ],
+  "carpet_sqm": [
+   47.32,
+   47.77
+  ],
+  "total_units": 4,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100080801",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2524400-2535200",
+   "builtup": "72.25-72.56",
+   "carpet": "47.32-47.77",
+   "rera": "P52100080801"
+  }
+ },
+ {
+  "sr": 152,
+  "code": "992",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "मंगलम मेलिझ्मा, किवळे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 3355300,
+  "price_max": 3355300,
+  "builtup_sqm": [
+   96.03,
+   96.03
+  ],
+  "carpet_sqm": [
+   57.7,
+   57.7
+  ],
+  "total_units": 19,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 1,
+   "GP": 10
+  },
+  "rera": "PR1260002502021",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3355300",
+   "builtup": "96.03",
+   "carpet": "57.7",
+   "rera": "PR1260002502021"
+  }
+ },
+ {
+  "sr": 153,
+  "code": "994",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "माय होम सँन्चुरी फेज-1, मामुर्डी - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2338200,
+  "price_max": 2338200,
+  "builtup_sqm": [
+   66.92,
+   66.92
+  ],
+  "carpet_sqm": [
+   38.73,
+   38.73
+  ],
+  "total_units": 104,
+  "reserved": {
+   "SC": 13,
+   "ST": 7,
+   "NT": 2,
+   "DT": 2,
+   "JR": 3,
+   "FF": 3,
+   "PH": 3,
+   "DF": 2,
+   "EX": 5,
+   "MP": 2,
+   "ME": 2,
+   "SG": 5,
+   "CG": 2,
+   "AR": 2,
+   "GP": 51
+  },
+  "rera": "PR1261012502725",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2338200",
+   "builtup": "66.92",
+   "carpet": "38.73",
+   "rera": "PR1261012502725"
+  }
+ },
+ {
+  "sr": 154,
+  "code": "995",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "डीएलसी वंडरनेस्ट, बी बिल्डिंग, मोशी - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 3039100,
+  "price_max": 3071500,
+  "builtup_sqm": [
+   86.98,
+   87.91
+  ],
+  "carpet_sqm": [
+   49.24,
+   49.85
+  ],
+  "total_units": 7,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 4
+  },
+  "rera": "P52100077602",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "3039100-3071500",
+   "builtup": "86.98-87.91",
+   "carpet": "49.24-49.85",
+   "rera": "P52100077602"
+  }
+ },
+ {
+  "sr": 155,
+  "code": "1000-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "अंताल्या नेक्स्ट, ताथवडे - 1 आरके",
+  "unit_type": "1 RK",
+  "price_min": 1539200,
+  "price_max": 1539200,
+  "builtup_sqm": [
+   44.05,
+   44.05
+  ],
+  "carpet_sqm": [
+   30.84,
+   30.84
+  ],
+  "total_units": 2,
+  "reserved": {
+   "SC": 0,
+   "ST": 0,
+   "NT": 0,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 1
+  },
+  "rera": "P52100066556",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1539200",
+   "builtup": "44.05",
+   "carpet": "30.84",
+   "rera": "P52100066556"
+  }
+ },
+ {
+  "sr": 156,
+  "code": "1000-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "अंताल्या नेक्स्ट, ताथवडे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2499900,
+  "price_max": 2756100,
+  "builtup_sqm": [
+   71.55,
+   78.88
+  ],
+  "carpet_sqm": [
+   46.46,
+   49.35
+  ],
+  "total_units": 6,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "P52100066556",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2499900-2756100",
+   "builtup": "71.55-78.88",
+   "carpet": "46.46-49.35",
+   "rera": "P52100066556"
+  }
+ },
+ {
+  "sr": 157,
+  "code": "1000-सी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "अंताल्या नेक्स्ट, ताथवडे - 1.5 बीएचके",
+  "unit_type": "1.5 BHK",
+  "price_min": 2355300,
+  "price_max": 2355300,
+  "builtup_sqm": [
+   67.41,
+   67.41
+  ],
+  "carpet_sqm": [
+   46.28,
+   46.28
+  ],
+  "total_units": 4,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 2
+  },
+  "rera": "P52100066556",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2355300",
+   "builtup": "67.41",
+   "carpet": "46.28",
+   "rera": "P52100066556"
+  }
+ },
+ {
+  "sr": 158,
+  "code": "1000-डी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "अंताल्या नेक्स्ट, ताथवडे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2672900,
+  "price_max": 2961800,
+  "builtup_sqm": [
+   76.5,
+   84.77
+  ],
+  "carpet_sqm": [
+   48.65,
+   49.22
+  ],
+  "total_units": 5,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 0,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "P52100066556",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2672900-2961800",
+   "builtup": "76.50-84.77",
+   "carpet": "48.65-49.22",
+   "rera": "P52100066556"
+  }
+ },
+ {
+  "sr": 159,
+  "code": "1001",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "प्रेसिडेन्शियल टॉवर, पिंपळे सौदागर - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2278100,
+  "price_max": 2389300,
+  "builtup_sqm": [
+   68.46,
+   71.8
+  ],
+  "carpet_sqm": [
+   45.01,
+   45.77
+  ],
+  "total_units": 18,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 0,
+   "GP": 9
+  },
+  "rera": "P52100047282",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2278100-2389300",
+   "builtup": "68.46-71.80",
+   "carpet": "45.01-45.77",
+   "rera": "P52100047282"
+  }
+ },
+ {
+  "sr": 160,
+  "code": "1003",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "ग्रँड एक्सॉटिका, ताथवडे - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2127700,
+  "price_max": 2127700,
+  "builtup_sqm": [
+   63.94,
+   63.94
+  ],
+  "carpet_sqm": [
+   38.83,
+   38.83
+  ],
+  "total_units": 35,
+  "reserved": {
+   "SC": 4,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 0,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 18
+  },
+  "rera": "P52100052285",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2127700",
+   "builtup": "63.94",
+   "carpet": "38.83",
+   "rera": "P52100052285"
+  }
+ },
+ {
+  "sr": 161,
+  "code": "1004",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "नेटिझन, वाकड - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2666000,
+  "price_max": 2666000,
+  "builtup_sqm": [
+   76.3,
+   76.3
+  ],
+  "carpet_sqm": [
+   37.68,
+   37.68
+  ],
+  "total_units": 10,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 0,
+   "GP": 5
+  },
+  "rera": "P52100052811",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2666000",
+   "builtup": "76.3",
+   "carpet": "37.68",
+   "rera": "P52100052811"
+  }
+ },
+ {
+  "sr": 162,
+  "code": "1006",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "मिहिर अमारा, बिल्डिंग ए 4, वाकड - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 2234100,
+  "price_max": 2241100,
+  "builtup_sqm": [
+   63.94,
+   64.14
+  ],
+  "carpet_sqm": [
+   41.81,
+   41.88
+  ],
+  "total_units": 46,
+  "reserved": {
+   "SC": 5,
+   "ST": 3,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 2,
+   "DF": 1,
+   "EX": 2,
+   "MP": 1,
+   "ME": 1,
+   "SG": 2,
+   "CG": 1,
+   "AR": 1,
+   "GP": 23
+  },
+  "rera": "P52100033528",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2234100-2241100",
+   "builtup": "63.94-64.14",
+   "carpet": "41.81-41.88",
+   "rera": "P52100033528"
+  }
+ },
+ {
+  "sr": 163,
+  "code": "1007",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "क्रिष्ण-प्रभा आंगण, पिंपळे गुरव - 1 बीएचके",
+  "unit_type": "1 BHK",
+  "price_min": 1780600,
+  "price_max": 2029400,
+  "builtup_sqm": [
+   50.96,
+   58.06
+  ],
+  "carpet_sqm": [
+   33.63,
+   35.8
+  ],
+  "total_units": 16,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 8
+  },
+  "rera": "PR1260002502021",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "1780600-2029400",
+   "builtup": "50.96-58.06",
+   "carpet": "33.63-35.80",
+   "rera": "PR1260002502021"
+  }
+ },
+ {
+  "sr": 164,
+  "code": "1008",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "स्वानंदी ब्लॉसम फेज-1, रावेत - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2357100,
+  "price_max": 2592900,
+  "builtup_sqm": [
+   67.46,
+   74.21
+  ],
+  "carpet_sqm": [
+   48.05,
+   50.0
+  ],
+  "total_units": 27,
+  "reserved": {
+   "SC": 3,
+   "ST": 2,
+   "NT": 0,
+   "DT": 0,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 13
+  },
+  "rera": "P52100077167",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2357100-2592900",
+   "builtup": "67.46-74.21",
+   "carpet": "48.05-50.00",
+   "rera": "P52100077167"
+  }
+ },
+ {
+  "sr": 165,
+  "code": "1009",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "सिग्नेचर पार्क, बिल्डिंग एन, म्हाडा थेरगाव - 1 बीएचके ,",
+  "unit_type": "1 BHK",
+  "price_min": 2005600,
+  "price_max": 2005600,
+  "builtup_sqm": [
+   57.4,
+   57.4
+  ],
+  "carpet_sqm": [
+   37.25,
+   37.25
+  ],
+  "total_units": 11,
+  "reserved": {
+   "SC": 1,
+   "ST": 1,
+   "NT": 0,
+   "DT": 1,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 1,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 6
+  },
+  "rera": "PR2160002502756",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2005600",
+   "builtup": "57.4",
+   "carpet": "37.25",
+   "rera": "PR2160002502756"
+  }
+ },
+ {
+  "sr": 166,
+  "code": "1010",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "के-शायर फेज-3, पुनावळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2954500,
+  "price_max": 3108200,
+  "builtup_sqm": [
+   84.56,
+   88.96
+  ],
+  "carpet_sqm": [
+   50.2,
+   50.5
+  ],
+  "total_units": 5,
+  "reserved": {
+   "SC": 1,
+   "ST": 0,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 0,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 0,
+   "CG": 0,
+   "AR": 0,
+   "GP": 3
+  },
+  "rera": "P52100078900",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2954500-3108200",
+   "builtup": "84.56-88.96",
+   "carpet": "50.20-50.50",
+   "rera": "P52100078900"
+  }
+ },
+ {
+  "sr": 167,
+  "code": "1011-ए",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "क्यू-154, जी विंग, पुनावळे - 1.5 बीएचके",
+  "unit_type": "1.5 BHK",
+  "price_min": 2406200,
+  "price_max": 2406200,
+  "builtup_sqm": [
+   68.87,
+   68.87
+  ],
+  "carpet_sqm": [
+   40.14,
+   40.14
+  ],
+  "total_units": 14,
+  "reserved": {
+   "SC": 2,
+   "ST": 1,
+   "NT": 0,
+   "DT": 0,
+   "JR": 0,
+   "FF": 0,
+   "PH": 1,
+   "DF": 0,
+   "EX": 1,
+   "MP": 0,
+   "ME": 0,
+   "SG": 1,
+   "CG": 0,
+   "AR": 1,
+   "GP": 7
+  },
+  "rera": "PR126101201056",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2406200",
+   "builtup": "68.87",
+   "carpet": "40.14",
+   "rera": "PR126101201056"
+  }
+ },
+ {
+  "sr": 168,
+  "code": "1011-बी",
+  "round": 1,
+  "section": "inclusive-20-pcmc",
+  "name_mr": "क्यू-154, जी विंग, पुनावळे - 2 बीएचके",
+  "unit_type": "2 BHK",
+  "price_min": 2405700,
+  "price_max": 2952800,
+  "builtup_sqm": [
+   68.85,
+   84.51
+  ],
+  "carpet_sqm": [
+   47.36,
+   49.32
+  ],
+  "total_units": 34,
+  "reserved": {
+   "SC": 4,
+   "ST": 2,
+   "NT": 1,
+   "DT": 1,
+   "JR": 1,
+   "FF": 1,
+   "PH": 1,
+   "DF": 1,
+   "EX": 1,
+   "MP": 1,
+   "ME": 1,
+   "SG": 1,
+   "CG": 1,
+   "AR": 1,
+   "GP": 16
+  },
+  "rera": "PR126101201056",
+  "pdf_page": 2,
+  "flags": [],
+  "raw": {
+   "price": "2405700-2952800",
+   "builtup": "68.85-84.51",
+   "carpet": "47.36-49.32",
+   "rera": "PR126101201056"
+  }
+ }
+]

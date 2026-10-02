@@ -1,0 +1,57 @@
+{
+  "id": "pune-2026-09",
+  "title": "MHADA Pune Board Lottery — September 2026",
+  "title_mr": "पुणे गृहनिर्माण व क्षेत्रविकास मंडळ — ऑनलाईन सोडत सप्टेंबर 2026",
+  "board": "Pune Housing and Area Development Board (MHADA)",
+  "total_units": 4462,
+  "source_pdf": "source/pune-2026-09.pdf",
+  "official_sites": [
+    {"label": "housing.mhada.gov.in", "url": "https://housing.mhada.gov.in"},
+    {"label": "mhada.gov.in", "url": "https://mhada.gov.in"}
+  ],
+  "timeline": [
+    {"key": "apply_open", "label": "Online applications open", "at": "2026-08-24T12:00:00+05:30"},
+    {"key": "apply_close", "label": "Last date to apply & pay online", "at": "2026-09-15T23:59:00+05:30"},
+    {"key": "rtgs_close", "label": "Last date for deposit by RTGS / NEFT", "at": "2026-09-16T17:00:00+05:30", "note": "during the bank's office hours"},
+    {"key": "draft_list", "label": "Draft list of accepted applications", "at": "2026-09-29T19:00:00+05:30"},
+    {"key": "objections", "label": "Last date for claims & objections", "at": "2026-10-01T17:00:00+05:30"},
+    {"key": "final_list", "label": "Final list of accepted applications", "at": "2026-10-08T19:00:00+05:30"},
+    {"key": "draw", "label": "Lottery draw", "at": "2026-10-13T11:00:00+05:30"},
+    {"key": "winners", "label": "Winners' names published online", "at": "2026-10-13T18:00:00+05:30"}
+  ],
+  "income_groups": [
+    {"id": "EWS", "label": "Economically Weaker Section", "max_income": 600000, "deposit": 15000, "can_apply_for": ["EWS", "LIG"]},
+    {"id": "LIG", "label": "Low Income Group", "max_income": 900000, "deposit": 20000, "can_apply_for": ["LIG"]}
+  ],
+  "income_note": "Annual family income (husband + wife) for 01/04/2025 – 31/03/2026, proved by income-tax return or Tahsildar certificate. No minimum income is set.",
+  "application_fee": {"fee": 600, "gst": 108, "total": 708, "refundable": false},
+  "sections": {
+    "social-15": {"label": "15% Social Housing Scheme", "short": "15% Social Housing", "mr": "15% सामाजिक गृहनिर्माण योजना"},
+    "inclusive-20-pmc": {"label": "20% Inclusive Housing — Pune Municipal Corporation", "short": "20% Inclusive · PMC", "mr": "20% सर्वसमावेशक गृहनिर्माण योजना - पुणे महानगरपालिका हद्दीतील"},
+    "inclusive-20-pcmc": {"label": "20% Inclusive Housing — Pimpri Chinchwad Municipal Corporation", "short": "20% Inclusive · PCMC", "mr": "20% सर्वसमावेशक गृहनिर्माण योजना - पिंपरी चिंचवड महानगरपालिका हद्दीतील"}
+  },
+  "rounds": {"1": "1st advertisement", "2": "2nd advertisement", "3": "3rd advertisement"},
+  "categories": [
+    {"id": "GP", "label": "General public", "mr": "सर्व साधारण जनता"},
+    {"id": "SC", "label": "Scheduled Castes & Nav-Bauddha", "mr": "अनुसूचित जाती आणि नवबौध्द"},
+    {"id": "ST", "label": "Scheduled Tribes", "mr": "अनुसूचित जमाती"},
+    {"id": "NT", "label": "Nomadic Tribes", "mr": "भटक्या जमाती"},
+    {"id": "DT", "label": "Vimukta Jati / Denotified Tribes", "mr": "विमुक्त जाती"},
+    {"id": "JR", "label": "Journalists", "mr": "पत्रकार"},
+    {"id": "FF", "label": "Freedom fighters", "mr": "स्वातंत्र्य सैनिक"},
+    {"id": "PH", "label": "Blind & physically disabled", "mr": "अंध व शारीरिक दृष्टया अपंग"},
+    {"id": "DF", "label": "Defence / border forces — killed or disabled in action, and families", "mr": "संरक्षण दल किंवा सीमा सुरक्षा दल"},
+    {"id": "EX", "label": "Ex-servicemen and dependents", "mr": "माजी सैनिक व त्यांच्यावर अवलंबून असणाऱ्या व्यक्ती"},
+    {"id": "MP", "label": "Current & former MPs, MLAs and MLCs from Maharashtra", "mr": "आजी-माजी खासदार, आमदार"},
+    {"id": "ME", "label": "MHADA employees (5+ years' service)", "mr": "म्हाडा कर्मचारी"},
+    {"id": "SG", "label": "State govt / board / corporation employees (5+ years, incl. retired)", "mr": "राज्य शासकीय कर्मचारी"},
+    {"id": "CG", "label": "Govt-quarters residents retiring within 3 years, and central govt employees", "mr": "शासकीय निवासस्थानातील / केंद्र सरकारचे कर्मचारी"},
+    {"id": "AR", "label": "Artists — film, TV, theatre, tamasha, radio & performing arts", "mr": "कलाकार"}
+  ],
+  "contact": {
+    "helpline": "022-69468100",
+    "deposit_helplines": ["7030900265", "18008918297"],
+    "email": "support.mhadapunelottery@easebuzz.in",
+    "address": "MHADA Lottery Help Centre, Pune Housing & Area Development Board, Ground floor, Agarkar Nagar, Pune 411001"
+  }
+}

@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ghar Sodat · MHADA Pune Lottery 2026, made searchable</title>
+  <meta name="description" content="All 4,462 homes in MHADA Pune's September 2026 lottery in one searchable list. Filter by locality, 1 RK / 1 BHK / 2 BHK, budget and reserved category. Unofficial guide.">
+  <meta property="og:title" content="MHADA Pune Lottery 2026 — all 4,462 homes, searchable">
+  <meta property="og:description" content="Filter 168 schemes by locality, BHK, budget and reserved category. Unofficial guide made from the official ad.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#165c45">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Martel:wght@700;800&family=Mukta:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-row">
+      <a class="brand" href="./">
+        <span class="brand-mark" aria-hidden="true">घर</span>
+        <span class="brand-name">Ghar Sodat <span class="brand-city">Pune</span></span>
+      </a>
+      <span class="unofficial">Unofficial guide</span>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow" id="lottery-title">MHADA Pune Board · Online lottery, September 2026</p>
+        <h1><span class="hl" id="hero-units">4,462</span> homes.<br>One list you can actually read.</h1>
+        <p class="lede">Every flat in the official lottery ad, with filters for locality, BHK, budget and reserved category.</p>
+        <ul class="stats" id="stats" aria-label="Lottery at a glance"></ul>
+      </div>
+      <aside class="status-card" id="status" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <section class="wrap eligibility" aria-labelledby="elig-h">
+    <h2 id="elig-h" class="section-h">Who can apply</h2>
+    <div class="elig-grid" id="eligibility"></div>
+  </section>
+
+  <main class="wrap browser" id="browse">
+    <aside class="filters" id="filters" aria-label="Filters">
+      <div class="filters-head">
+        <h2 class="section-h">Filter</h2>
+        <button type="button" class="link-btn" id="reset">Reset</button>
+        <button type="button" class="icon-btn close-filters" id="close-filters" aria-label="Close filters">✕</button>
+      </div>
+
+      <label class="field">
+        <span class="field-label">Search</span>
+        <input type="search" id="q" placeholder="Project, locality, code, RERA…" autocomplete="off">
+      </label>
+
+      <fieldset class="field">
+        <legend class="field-label">Area</legend>
+        <div class="seg" id="area" role="radiogroup"></div>
+      </fieldset>
+
+      <label class="field">
+        <span class="field-label">Locality</span>
+        <select id="loc"><option value="">All localities</option></select>
+      </label>
+
+      <fieldset class="field">
+        <legend class="field-label">Home type</legend>
+        <div class="chips" id="types"></div>
+      </fieldset>
+
+      <label class="field">
+        <span class="field-label">Budget (starting price up to)</span>
+        <select id="budget">
+          <option value="">Any budget</option>
+          <option value="1500000">₹15 lakh</option>
+          <option value="2000000">₹20 lakh</option>
+          <option value="2500000">₹25 lakh</option>
+          <option value="3000000">₹30 lakh</option>
+          <option value="3500000">₹35 lakh</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span class="field-label">Reserved category</span>
+        <select id="cat"><option value="">Any category</option></select>
+        <span class="field-hint">Shows only schemes with homes set aside for this category.</span>
+      </label>
+
+      <button type="button" class="btn btn-primary show-results" id="show-results">Show results</button>
+    </aside>
+
+    <section class="results" aria-labelledby="results-count">
+      <div class="results-bar">
+        <p class="results-count" id="results-count" aria-live="polite"></p>
+        <div class="results-tools">
+          <button type="button" class="btn btn-ghost open-filters" id="open-filters">Filters <span class="badge" id="filter-badge" hidden></span></button>
+          <label class="sort">
+            <span class="visually-hidden">Sort by</span>
+            <select id="sort">
+              <option value="">Ad order</option>
+              <option value="price-asc">Price: low to high</option>
+              <option value="price-desc">Price: high to low</option>
+              <option value="units-desc">Most homes</option>
+              <option value="carpet-desc">Largest carpet area</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <ol class="tickets" id="list"></ol>
+      <div class="empty" id="empty" hidden>
+        <p><strong>No schemes match these filters.</strong></p>
+        <button type="button" class="btn btn-ghost" id="empty-reset">Clear filters</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer" id="footer"></footer>
+
+  <script type="module" src="assets/list.js"></script>
+</body>
+</html>
